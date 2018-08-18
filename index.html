@@ -98,7 +98,7 @@
 		.data(graph.nodes)
 		.enter().append("circle")
 		.attr("fill", function(d) { return color(d.group); })
-		.attr("r", function(d) { return Math.sqrt(d.edgenr); })
+		.attr("r", 5)
 
 		.call(d3.drag()
 			.on("start", dragstarted)
