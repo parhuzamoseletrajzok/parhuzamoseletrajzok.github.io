@@ -77,7 +77,7 @@
 
 	var color = d3.scaleOrdinal(d3.schemeCategory20);
 
-	var force = d3.layout.forceSimulation()
+	var force = d3.forceSimulation()
 	    .charge(-120)
 	    .linkDistance(130)
 	    .size([width, height]);
