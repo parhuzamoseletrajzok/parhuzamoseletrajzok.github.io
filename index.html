@@ -97,15 +97,14 @@
  		if (!link.target["linkCount"]) link.target["linkCount"] = 0;
 
 		link.source["linkCount"]++;
-		link.target["linkCount"]++;
-});
+		link.target["linkCount"]++; });
 
 	var node = svg.append("g")
 		.attr("class", "nodes")
 		.selectAll("circle")
 		.data(graph.nodes)
 		.enter().append("circle")
-		.attr("r", function(d) { return d.linkCount ? (d.linkCount * 4) : 4; })
+		.attr("r", function(d) { return d.linkCount ? (d.linkCount * 4) : 6; })
 		.attr("fill", function(d) { return color(d.group); })
 		.call(d3.drag()
 			.on("start", dragstarted)
