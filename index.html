@@ -109,7 +109,7 @@
 		.selectAll("circle")
 		.data(graph.nodes)
 		.enter().append("circle")
-		.attr("r", function(d) { return d.linkCount ? (d.linkCount * 4) : 2; })
+		.attr("r", function(d) { return d.linkCount ? (d.linkCount * 2) : 4; })
 		.attr("fill", function(d) { return color(d.group); })
 		.call(d3.drag()
 			.on("start", dragstarted)
