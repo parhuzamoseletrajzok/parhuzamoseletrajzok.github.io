@@ -98,6 +98,8 @@
 		.data(graph.nodes)
 		.enter().append("circle")
 		.attr("fill", function(d) { return color(d.group); })
+		.attr("r", function(d) { return d.group * 2; })
+
 		.call(d3.drag()
 			.on("start", dragstarted)
 			.on("drag", dragged)
@@ -105,11 +107,6 @@
 
 	node.append("title")
 		.text(function(d) { return d.id; });
-	
-	svg.append("circle")
-	  	.attr("r", function(d) {
-	    	return 10 + (d.weight * 2);
-	  	})
 
 	simulation
 		.nodes(graph.nodes)
