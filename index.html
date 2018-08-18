@@ -67,7 +67,7 @@
 	<h2>Szektorközi átvándorlók</h2>
       </div>
     </header>
-	<svg width="960" height="500" style="display: block; margin-left: auto; margin-right: auto;"></svg>
+	<svg width="100%" height="500" style="display: block; margin-left: auto; margin-right: auto;"></svg>
 	<script src="https://d3js.org/d3.v4.min.js"></script>
 	<script>
 
@@ -114,15 +114,6 @@
 
 	node.append("title")
 		.text(function(d) { return d.id; });
-
-	node.append("circle")
-		.attr("r", function(d) {
-	d.weight = link.filter(function(l) {
-	return l.source.index == d.index || l.target.index == d.index
-	}).size();
-	var minRadius = 10;
-     return minRadius + (d.weight * 2);
-   });
 
 	simulation
 		.nodes(graph.nodes)
