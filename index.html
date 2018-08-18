@@ -85,19 +85,20 @@
 	d3.json("miserables.json", function(error, graph) {
 	if (error) throw error;
 
+	graph.links.forEach(function(link){
+                if (!link.source["linkCount"]) link.source["linkCount"] = 0;
+                if (!link.target["linkCount"]) link.target["linkCount"] = 0;
+
+                link.source["linkCount"]++;
+                link.target["linkCount"]++; });
+
+
 	var link = svg.append("g")
 		.attr("class", "links")
 		.selectAll("line")
 		.data(graph.links)
 		.enter().append("line")
 		.attr("stroke-width", function(d) { return Math.sqrt(d.value); });
-
-	graph.links.forEach(function(link){
-  		if (!link.source["linkCount"]) link.source["linkCount"] = 0; 
- 		if (!link.target["linkCount"]) link.target["linkCount"] = 0;
-
-		link.source["linkCount"]++;
-		link.target["linkCount"]++; });
 
 	var node = svg.append("g")
 		.attr("class", "nodes")
