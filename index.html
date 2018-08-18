@@ -106,7 +106,7 @@
 	node.append("title")
 		.text(function(d) { return d.id; });
 	
-	node.append("circle")
+	svg.append("circle")
 	  	.attr("r", function(d) {
 	    	return 10 + (d.weight * 2);
 	  	})
