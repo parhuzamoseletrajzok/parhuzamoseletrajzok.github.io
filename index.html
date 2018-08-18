@@ -77,9 +77,9 @@
 
 	var color = d3.scaleOrdinal(d3.schemeCategory20);
 	var force = d3.layout.force()
-    		.charge(-120)
-    		.linkDistance(130)
-    		.size([width, height]);
+		.charge(-120)
+		.linkDistance(130)
+		.size([width, height]);
 
 	var simulation = d3.forceSimulation()
 		.force("link", d3.forceLink().id(function(d) { return d.id; }))
