@@ -115,6 +115,15 @@
 	node.append("title")
 		.text(function(d) { return d.id; });
 
+	node.append("circle")
+		.attr("r", function(d) {
+	d.weight = link.filter(function(l) {
+	return l.source.index == d.index || l.target.index == d.index
+	}).size();
+	var minRadius = 10;
+     return minRadius + (d.weight * 2);
+   });
+
 	simulation
 		.nodes(graph.nodes)
 		.on("tick", ticked);
