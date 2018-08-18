@@ -85,14 +85,6 @@
 	d3.json("miserables.json", function(error, graph) {
 	if (error) throw error;
 
-	graph.links.forEach(function(link){
-                if (!link.source["linkCount"]) link.source["linkCount"] = 0;
-                if (!link.target["linkCount"]) link.target["linkCount"] = 0;
-
-                link.source["linkCount"]++;
-                link.target["linkCount"]++; });
-
-
 	var link = svg.append("g")
 		.attr("class", "links")
 		.selectAll("line")
@@ -105,7 +97,7 @@
 		.selectAll("circle")
 		.data(graph.nodes)
 		.enter().append("circle")
-		.attr("r", function(d) { return d.linkCount ? (d.linkCount * 4) : 6; })
+		.attr("r", 6 )
 		.attr("fill", function(d) { return color(d.group); })
 		.call(d3.drag()
 			.on("start", dragstarted)
@@ -114,6 +106,13 @@
 
 	node.append("title")
 		.text(function(d) { return d.id; });
+
+node.append("circle")
+  .attr("r", function(d) {
+    var minRadius = 10;
+    return minRadius + (d.weight * 2);
+  });
+
 
 	simulation
 		.nodes(graph.nodes)
