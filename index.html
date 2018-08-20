@@ -31,7 +31,7 @@
 	stroke-width: 1.5px;
 	}
 
-	.node text {
+	text {
  	font-family: sans-serif;
   	font-size: 10px;
 	}
@@ -88,7 +88,7 @@
 	var simulation = d3.forceSimulation()
 		.force("link", d3.forceLink().id(function(d) { return d.id; }))
 		.force("charge", d3.forceManyBody())
-		.force("center", d3.forceCenter(width / 2, height / 2));
+		.force("center", d3.forceCenter(width, height));
 
 	d3.json("miserables.json", function(error, graph) {
 	if (error) throw error;
@@ -113,7 +113,7 @@
 			.on("drag", dragged)
 			.on("end", dragended));
 
-	node.append("text")
+	var lables = node.append("text")
 	      	.text(function(d) { return d.id; })
 	      	.attr('x', 6)
 	      	.attr('y', 3);
@@ -137,8 +137,9 @@
 
 		node
 			.attr("cx", function(d) { return d.x; })
-			.attr("cy", function(d) { return d.y; });
-	}
+			.attr("cy", function(d) { return d.y; })
+			.attr("transform", function(d) {
+          return "translate(" + d.x + "," + d.y + ")";})
 	});
 
 	function dragstarted(d) {
