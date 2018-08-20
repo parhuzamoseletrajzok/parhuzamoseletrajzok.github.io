@@ -10,6 +10,9 @@
 
     <title>Párhuzamos Életrajzok</title>
 
+	<script src="js/mermaid.min.js"></script>
+	<script>mermaid.initialize({startOnLoad:true});</script>
+
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
@@ -26,6 +29,11 @@
 	.nodes circle {
 	stroke: #fff;
 	stroke-width: 1.5px;
+	}
+
+	text {
+ 	font-family: sans-serif;
+  	font-size: 10px;
 	}
 
 	</style>
@@ -104,6 +112,11 @@
 			.on("start", dragstarted)
 			.on("drag", dragged)
 			.on("end", dragended));
+
+	var lables = node.append("text")
+	      	.text(function(d) {return d.id;})
+	      	.attr('x', 6)
+	      	.attr('y', 3);
 
 	node.append("title")
 		.text(function(d) { return d.id; });
