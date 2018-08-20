@@ -31,7 +31,7 @@
 	stroke-width: 1.5px;
 	}
 
-	text {
+	.nodes text {
 	font-size:"10px"
 	font-family:"sans-serif"
 	}
@@ -113,9 +113,10 @@
 			.on("drag", dragged)
 			.on("end", dragended));
 
-	node.append("text")
-  		.attr("cx", 12)
-  		.attr("cy", ".35em")
+	
+  		.selectAll("text")
+		.data(graph.nodes)
+		.enter().append("text")
   		.text(function(d) { return d.id });
 
 	node.append("title")
