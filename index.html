@@ -113,12 +113,6 @@
 			.on("drag", dragged)
 			.on("end", dragended));
 
-	
-  		.selectAll("text")
-		.data(graph.nodes)
-		.enter().append("text")
-  		.text(function(d) { return d.id });
-
 	node.append("title")
 		.text(function(d) { return d.id; });
 
