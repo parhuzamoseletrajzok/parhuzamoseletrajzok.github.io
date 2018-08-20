@@ -32,8 +32,8 @@
 	}
 
 	text {
- 	font-family: sans-serif;
-  	font-size: 10px;
+	font-size:"10px"
+	font-family:"sans-serif"
 	}
 
 	</style>
@@ -113,10 +113,10 @@
 			.on("drag", dragged)
 			.on("end", dragended));
 
-	var lables = node.append("text")
-	      	.text(function(d) { return d.id; })
-	      	.attr('cx', 6)
-	      	.attr('cy', 3);
+	node.append("text")
+  		.attr("cx", 12)
+  		.attr("cy", ".35em")
+  		.text(function(d) { return d.id });
 
 	node.append("title")
 		.text(function(d) { return d.id; });
