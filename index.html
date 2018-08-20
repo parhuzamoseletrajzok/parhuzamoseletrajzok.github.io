@@ -115,8 +115,8 @@
 
 	var lables = node.append("text")
 	      	.text(function(d) { return d.id; })
-	      	.attr('x', 6)
-	      	.attr('y', 3);
+	      	.attr('cx', 6)
+	      	.attr('cy', 3);
 
 	node.append("title")
 		.text(function(d) { return d.id; });
@@ -137,9 +137,9 @@
 
 		node
 			.attr("cx", function(d) { return d.x; })
-			.attr("cy", function(d) { return d.y; })
-			.attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
-	});
+			.attr("cy", function(d) { return d.y; });
+			}
+		});
 
 	function dragstarted(d) {
 	if (!d3.event.active) simulation.alphaTarget(0.3).restart();
