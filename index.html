@@ -113,7 +113,7 @@
 			.on("drag", dragged)
 			.on("end", dragended));
 
-	var lables = node.append("text")
+	node.append("text")
 	      	.text(function(d) {return d.id;})
 	      	.attr('x', 6)
 	      	.attr('y', 3);
@@ -180,6 +180,11 @@
         <div class="row">
           <div class="col-lg-8 mx-auto">
             <h2>A módszertan</h2>
+		<div class="mermaid">
+    		graph LR
+			A[Adatbányászat]-->B[Adattisztítás]
+		</div>
+
             <h3>Hipotézis:</h3>
 	    <p class="lead">A Semmelweis Egyetem klinikumában dolgozó orvosok (2513 fő) nagy számban vállalnak másodállást különböző magánellátóknál.</p>
 	    <h3>Kutatásunk célja:</h3> 
