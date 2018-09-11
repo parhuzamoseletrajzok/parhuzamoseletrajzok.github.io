@@ -54,7 +54,8 @@
               <a class="nav-link js-scroll-trigger" href="#about">Kutatás</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#services">Módszertan</a>
+              <a class="nav-link js-scroll-trigger" 
+href="#services">Módszerek és Eszközök</a>
             </li>
 	    <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#team">Csapat</a>
@@ -66,7 +67,7 @@
 
     <header class="bg-primary text-white">
       <div class="container text-center">
-        <h1>Párhuzamos Életrajzok</h1>
+        <h1>Párhuzamos Életrajzok<br><i class="fa fa-user-md" aria-hidden="true"></i></h1>
 	<h3>Szektorközi átvándorlók</h3>
       </div>
     </header>
@@ -153,14 +154,15 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-8 mx-auto">
-            <h2>Kutatás</h2>
-            <p class="lead"><br><strong>Mik voltak a céljaink?</strong><br><br>Az általunk feltett kérdés az, hogy vajon hányan lehetnek azok, akiknek a közfinanszírozott egészségügyi 
+            <h2>Kutatás</h2><h4>Mik voltak a céljaink?</h4>
+            <p class="lead">Az általunk feltett kérdés tulajdonképpen az, hogy vajon hányan lehetnek azok, akiknek a közfinanszírozott egészségügyi 
 ellátásban  vállalt feladataik mellett másodállásuk is van egy magánszolgáltatónál? Hallgatói csapatunk ezt önerőből, nyilvános 
 adatok és ingyenes eszközök használatával próbálja feltérképezni. A kutatás során a Semmelweis Egyetem klinikumában dolgozó 2531 orvost vizsgáltuk. Már a munka kezdetén is arra számítottunk, 
 hogy a másodállások megoszlása bizonytalan, és az egyes klinikákra vetítve is igen heterogén. Az összegyűjtött adatokat a szervezeti 
 egységek, magánellátók szintjén vizualizáltuk is. A fenti  gráfon szemléltetjük a foglalkoztatottság kusza hálóját. A csúcsok mérete 
 arányos az adott intézményben dolgozó, jelen kutatás keretei között azonosított orvosok számával. Az ezeket összekötő élek vastagságát a 
-mindkét intézmény által foglalkoztatott  orvosok száma határozza meg, névegyezés alapján.<br><br><strong>Mik lettek az eredményeink?</strong><br><br>Kutatásunk eredménye, hogy a 
+mindkét intézmény által foglalkoztatott  orvosok száma határozza meg, névegyezés alapján.</p><h4>Mik lettek az 
+eredményeink?</h4><p class="lead">Kutatásunk eredménye, hogy a 
 vizsgált egészségügyi szakembergárda körülbelül 10%-a vállal másod- vagy harmadállást, ám ez valószínűleg ez alulbecsült, hiszen az ellátórendszer csúcsát képviselő, jóhírű egyetemi 
 klinikákról van szó, amivel kapcsolatban csak a publikusan elérhető adatokra támaszkodtunk. Az egészségügyi szakemberhiány súlyosbodása nem csak a külföldre, hanem a más 
 szektorba vándorló munkaerőben is testet ölt, ami a kiégés felgyorsulását, vagy akár átrendeződő betegutakat eredményezheti. 
@@ -176,15 +178,20 @@ dolgoznak, mintha a teljes szervezeti egységet ugyanaz a szolgáltató foglalko
         <div class="row">
           <div class="col-lg-8 mx-auto">
             <h2>Módszerek és eszközök</h2>
+		<p class="lead">A módszertanunk meghatározásánál a validitás, az eszközeink kiválasztásánál a széles körben hozzáférhető tudásbázis 
+és az ingyenes hozzáférhetőség volt az alkalmazott szempont.</p>
 		<div class="mermaid">
     		graph LR
-			A["fa:fa-binoculars"<br>Adatgyűjtés<br>Publikus domainből]-->B["fa:fa-broom"<br>Tisztítás és Validáció<br>RStudio]
-			B-->C["fa:fa-eye"<br>Vizualizálás<br>D3js]
-			C-->D["fa:fa-book-reader"<br>Publikáció<br>GitHub Pages]
-			D-->A
+			A("fa:fa-binoculars"<br>Adatgyűjtés<br>Publikus domainből)-.->B("fa:fa-broom"<br>Tisztítás és Validáció<br>RStudio)
+			B-.->C("fa:fa-eye"<br>Vizualizálás<br>D3Js)
+			C-.->D("fa:fa-book-reader"<br>Publikáció<br>GitHub Pages)
+			D-.->A
 		click B "https://www.rstudio.com?target=_blank" "RStudio"
-		click C "https://d3js.org/?target=_blank" "D3Js"
-		click D "https://pages.github.com/" "GitHub Pages"
+		click C "https://d3js.org?target=_blank" "D3Js"
+		click D "https://pages.github.com?target=_blank" "GitHub Pages"
+
+		classDef parhu fill:#212529,stroke:#343A40,color:white,stroke-width:2px;
+		class A,B,C,D parhu
 		</div>
 
           </div>
@@ -196,14 +203,14 @@ dolgoznak, mintha a teljes szervezeti egységet ugyanaz a szolgáltató foglalko
       <div class="container">
        <div class="col-lg-8 mx-auto">
 	<h2>Csapat</h2>
-        <p class="lead">A csapat és szerepeink</p>
+        <p class="lead">Kik vagyunk?</p>
         <div class="row">
           <div class="col-md-3">
               <img class="img-fluid rounded mb-3 mb-md-0" src="http://placehold.it/150x200" alt="">
           </div>
           <div class="col-md-7">
-            <h3>Batta Balázs</h3>
-            <p>Adatgyűjtés | Adatbázis</p>
+            <h3>BATTA Balázs</h3>
+            <p>Adatgyűjtés | Adatbázisépítés</p>
 	    <a href="https://twitter.com/balinho_95" target="_blank"><i class="fab fa-twitter"></i></a>
 	    <a href="https://www.linkedin.com/in/bal%C3%A1zs-batta-a2434515a/" target="_blank"><i class="fab fa-linkedin"></i></a>
           </div>
@@ -218,7 +225,7 @@ dolgoznak, mintha a teljes szervezeti egységet ugyanaz a szolgáltató foglalko
             <img class="img-fluid rounded mb-3 mb-md-0" src="http://placehold.it/150x200" alt="">
         </div>
         <div class="col-md-7">
-          <h3>Németh Zoltán</h3>
+          <h3>NÉMETH Zoltán</h3>
           <p>Koordináció | Tartalomfejlesztés</p>
 	  <a href="https://twitter.com/zoli9628" target="_blank"><i class="fab fa-twitter"></i></a>
 	  <a href="https://www.linkedin.com/in/zolt%C3%A1n-n%C3%A9meth-bb6767117/" target="_blank"><i class="fab fa-linkedin"></i></a>
@@ -234,7 +241,7 @@ dolgoznak, mintha a teljes szervezeti egységet ugyanaz a szolgáltató foglalko
             <img class="img-fluid rounded mb-3 mb-md-0" src="http://placehold.it/150x200" alt="">
         </div>
         <div class="col-md-7">
-          <h3>Pataki Vivien</h3>
+          <h3>PATAKI Vivien</h3>
           <p>Weboldal | Vizualizáció</p>
 	  <a href="https://twitter.com/PatakiVivien4" target="_blank"><i class="fab fa-twitter"></i></a>
 	  <a href="https://www.linkedin.com/in/vivien-pataki-0115b1170/" target="_blank"><i class="fab fa-linkedin"></i></a>
@@ -251,7 +258,7 @@ dolgoznak, mintha a teljes szervezeti egységet ugyanaz a szolgáltató foglalko
             <img class="img-fluid rounded mb-3 mb-md-0" src="http://placehold.it/150x200" alt="">
         </div>
         <div class="col-md-7">
-          <h3>Pásztor Attila</h3>
+          <h3>PÁSZTOR Attila</h3>
           <p>Adattisztítás | Vizualizáció</p>
 	  <a href="https://twitter.com/heam2_attila" target="_blank"><i class="fab fa-twitter"></i></a>
 	  <a href="https://www.linkedin.com/in/attila-pasztor-391a69131/" target="_blank"><i class="fab fa-linkedin"></i></a>
@@ -268,7 +275,7 @@ dolgoznak, mintha a teljes szervezeti egységet ugyanaz a szolgáltató foglalko
             <img class="img-fluid rounded mb-3 mb-md-0" src="http://placehold.it/150x200" alt="">
         </div>
         <div class="col-md-7">
-          <h3>Merész Gergő</h3>
+          <h3>MERÉSZ Gergő</h3>
           <p>Mentor</p>
      	  <a href="https://twitter.com/GMeresz" target="_blank"><i class="fab fa-twitter"></i></a>
 	  <a href="https://www.linkedin.com/in/gergo-meresz-3b58ba31/" target="_blank"><i class="fab fa-linkedin"></i></a>
