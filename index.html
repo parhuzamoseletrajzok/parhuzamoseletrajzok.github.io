@@ -155,11 +155,7 @@ href="#services">Módszerek és Eszközök</a>
         <div class="row">
           <div class="col-lg-8 mx-auto">
             <h2>Kutatás</h2><h4>Mik voltak a céljaink?</h4>
-            <p class="lead">A rendelkezésre álló adatok szerint a hazai orvosok legalább 10 százaléka 
-(vagyis körülbelül 3000 fő) 
-egyedül 
-a 
-magánegészségügyben dolgozik. Az általunk feltett kérdés az, hogy vajon hányan lehetnek azok, akiknek a közfinanszírozott egészségügyi 
+            <p class="lead">Az általunk feltett kérdés tulajdonképpen az, hogy vajon hányan lehetnek azok, akiknek a közfinanszírozott egészségügyi 
 ellátásban  vállalt feladataik mellett másodállásuk is van egy magánszolgáltatónál? Hallgatói csapatunk ezt önerőből, nyilvános 
 adatok és ingyenes eszközök használatával próbálja feltérképezni. A kutatás során a Semmelweis Egyetem klinikumában dolgozó 2531 orvost vizsgáltuk. Már a munka kezdetén is arra számítottunk, 
 hogy a másodállások megoszlása bizonytalan, és az egyes klinikákra vetítve is igen heterogén. Az összegyűjtött adatokat a szervezeti 
@@ -182,17 +178,20 @@ dolgoznak, mintha a teljes szervezeti egységet ugyanaz a szolgáltató foglalko
         <div class="row">
           <div class="col-lg-8 mx-auto">
             <h2>Módszerek és eszközök</h2>
+		<p class="lead">A módszertanunk meghatározásánál a validitás, az eszközeink kiválasztásánál a széles körben hozzáférhető tudásbázis 
+és az ingyenes hozzáférhetőség volt az alkalmazott szempont.</p>
 		<div class="mermaid">
     		graph LR
-			A("fa:fa-binoculars"<br>Adatgyűjtés<br>Publikus domainből)-.->B("fa:fa-broom"<br>Tisztítás és Validáció<br>RStudio)
-			B-.->C("fa:fa-eye"<br>Vizualizálás<br>D3js)
-			C-.->D("fa:fa-book-reader"<br>Publikáció<br>GitHub Pages)
+			A("fa:fa-binoculars"<br>Adatgyűjtés<br><small>Publikus domainből</small>)-.->B("fa:fa-broom"<br>Tisztítás és 
+Validáció<br><small>RStudio</small>)
+			B-.->C("fa:fa-eye"<br>Vizualizálás<br><small>D3Js</small>)
+			C-.->D("fa:fa-book-reader"<br>Publikáció<br><small>GitHub Pages</small>)
 			D-.->A
 		click B "https://www.rstudio.com?target=_blank" "RStudio"
-		click C "https://d3js.org/?target=_blank" "D3Js"
-		click D "https://pages.github.com/" "GitHub Pages"
+		click C "https://d3js.org?target=_blank" "D3Js"
+		click D "https://pages.github.com?target=_blank" "GitHub Pages"
 
-		classDef parhu fill:#212529,stroke:#f66,color:white,stroke-width:2px;
+		classDef parhu fill:#212529,stroke:#343a40,text-align:center,color:white,stroke-width:2px,font-size:1.25rem;
 		class A,B,C,D parhu
 		</div>
 
@@ -212,7 +211,7 @@ dolgoznak, mintha a teljes szervezeti egységet ugyanaz a szolgáltató foglalko
           </div>
           <div class="col-md-7">
             <h3>BATTA Balázs</h3>
-            <p>Adatgyűjtés | Adatbázis</p>
+            <p>Adatgyűjtés | Adatbázisépítés</p>
 	    <a href="https://twitter.com/balinho_95" target="_blank"><i class="fab fa-twitter"></i></a>
 	    <a href="https://www.linkedin.com/in/bal%C3%A1zs-batta-a2434515a/" target="_blank"><i class="fab fa-linkedin"></i></a>
           </div>
