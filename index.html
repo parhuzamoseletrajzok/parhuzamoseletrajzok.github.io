@@ -185,9 +185,9 @@ dolgoznak, mintha a teljes szervezeti egységet ugyanaz a szolgáltató foglalko
 		<div class="mermaid">
     		graph LR
 			A("fa:fa-binoculars"<br>Adatgyűjtés<br>Publikus domainből)-.->B("fa:fa-broom"<br>Tisztítás és Validáció<br>RStudio)
-			B-->C("fa:fa-eye"<br>Vizualizálás<br>D3js)
-			C-->D("fa:fa-book-reader"<br>Publikáció<br>GitHub Pages)
-			D-->A
+			B-.->C("fa:fa-eye"<br>Vizualizálás<br>D3js)
+			C-.->D("fa:fa-book-reader"<br>Publikáció<br>GitHub Pages)
+			D-.->A
 		click B "https://www.rstudio.com?target=_blank" "RStudio"
 		click C "https://d3js.org/?target=_blank" "D3Js"
 		click D "https://pages.github.com/" "GitHub Pages"
