@@ -191,10 +191,14 @@ dolgoznak, mintha a teljes szervezeti egységet ugyanaz a szolgáltató foglalko
 		<p class="lead">A módszertanunk meghatározásánál a validitás, az eszközeink kiválasztásánál a széles körben hozzáférhető tudásbázis 
 és az ingyenes hozzáférhetőség volt az alkalmazott szempont.</p>
 		<div class="mermaid">
-    		graph LR
-			A("fa:fa-binoculars"<br>Adatgyűjtés<br>A kutatásunkhoz szükséges adatokat a publikus domainből, automatizált módszerek nélkül gyűjtöttük, ügyelve a minőségbiztosítás szempontjaira is.)-.->B("fa:fa-broom"<br>Tisztítás és Validáció<br>Az összegyűjtött adatokat az R statisztikai környezet RStudio GUI-jával megírt script segítségével tisztítottuk és rendeztük úgy, hogy kifinomult vizualizációra is alkalmasak legyenek)
-			B-.->C("fa:fa-eye"<br>Vizualizálás<br>Az összegyűjtött információ megjelenítéséhez a D3Js javascript könyvtárat használtuk, mások által elkészített minták adaptálásával)
-			C-.->D("fa:fa-book-reader"<br>Publikáció<br>A közzétételhez egy ingyenes, de reklámmentes szolgáltatást, a GitHub Pages-t használtunk, Bootstrap oldaltemplate-el)
+    		graph TD
+			A("fa:fa-binoculars"<br>Adatgyűjtés<br>A kutatásunkhoz szükséges adatokat a publikus domainből, automatizált módszerek nélkül gyűjtöttük,<br>ügyelve a 
+minőségbiztosítás szempontjaira is.)-.->B("fa:fa-broom"<br>Tisztítás és Validáció<br>Az összegyűjtött adatokat az R statisztikai környezet RStudio GUI-jával megírt<br>script 
+segítségével tisztítottuk és rendeztük úgy, hogy kifinomult vizualizációra is alkalmasak legyenek)
+			B-.->C("fa:fa-eye"<br>Vizualizálás<br>Az összegyűjtött információ megjelenítéséhez a D3Js javascript könyvtárat használtuk,<br>mások által elkészített minták 
+adaptálásával)
+			C-.->D("fa:fa-book-reader"<br>Publikáció<br>A közzétételhez egy ingyenes, de reklámmentes szolgáltatást,<br>a GitHub Pages-t használtunk, Bootstrap 
+oldaltemplate-el)
 			D-.->A
 		click B "https://www.rstudio.com?target=_blank" "RStudio"
 		click C "https://d3js.org?target=_blank" "D3Js"
