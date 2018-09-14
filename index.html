@@ -90,8 +90,8 @@
 		height = +svg.attr("height");
 
 	var color = d3.scaleLinear()
-    		.range(["#343a40", "grey"])
-		.domain([1, 2]);
+    		.range(["#343a40", "#6c757d"])
+		.domain([1, 6]);
 
 	var simulation = d3.forceSimulation()
 		.force("link", d3.forceLink().id(function(d) { return d.id; }))
