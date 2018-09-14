@@ -187,18 +187,20 @@ dolgoznak, mintha a teljes szervezeti egységet ugyanaz a szolgáltató foglalko
         <div class="row">
           <div class="col-lg-8 mx-auto">
             <h2>Módszerek és eszközök</h2>
+		<h3>Hogyan dolgoztunk?</h3>
 		<p class="lead">A módszertanunk meghatározásánál a validitás, az eszközeink kiválasztásánál a széles körben hozzáférhető tudásbázis és az ingyenes hozzáférhetőség volt az alkalmazott szempont.</p>
+		<br>
 		<div class="mermaid" style="text-align:center;">
     		graph TD
-			A("fa:fa-binoculars"<br>Adatgyűjtés<br><br><small>A kutatásunkhoz szükséges adatokat publikus <br>domainből,automatizált módszerek nélkül<br>gyűjtöttük, ügyelve a minőségbiztosítás<br>szempontjaira is.</small>)==>B("fa:fa-broom"<br>Tisztítás és Validáció<br><br><small>Az összegyűjtött adatokat az R statisztikai<br>környezet RStudio GUI-jával megírt<br>script segítségével tisztítottuk és<br>rendeztük úgy, hogy kifinomult vizualizációra<br>is alkalmasak legyenek</small>)
-			B==>C("fa:fa-eye"<br>Vizualizálás<br><br><small>Az összegyűjtött információ megjelenítéséhez a<br>D3Js javascript könyvtárat használtuk, mások<br>által elkészített minták adaptálásával</small>)
-			C==>D("fa:fa-book-reader"<br>Publikáció<br><br><small>A közzétételhez egy ingyenes, de<br>reklámmentes szolgáltatást, a GitHub Pages-t<br>használtunk, Bootstrap oldaltemplate-el</small>)
-			D==>A
+			A("fa:fa-binoculars"<br>Adatgyűjtés<br><br><small>A kutatásunkhoz szükséges adatokat publikus <br>domainből,automatizált módszerek nélkül<br>gyűjtöttük, ügyelve a minőségbiztosítás<br>szempontjaira is.</small>)-.->B("fa:fa-broom"<br>Tisztítás és Validáció<br><br><small>Az összegyűjtött adatokat az R statisztikai<br>környezet RStudio GUI-jával megírt<br>script segítségével tisztítottuk és<br>rendeztük úgy, hogy kifinomult vizualizációra<br>is alkalmasak legyenek</small>)
+			B-.->C("fa:fa-eye"<br>Vizualizálás<br><br><small>Az összegyűjtött információ megjelenítéséhez a<br>D3Js javascript könyvtárat használtuk, mások<br>által elkészített minták adaptálásával</small>)
+			C-.->D("fa:fa-book-reader"<br>Publikáció<br><br><small>A közzétételhez egy ingyenes, de<br>reklámmentes szolgáltatást, a GitHub Pages-t<br>használtunk, Bootstrap oldaltemplate-el</small>)
+			D-.->A
 		click B "https://www.rstudio.com?target=_blank" "RStudio"
 		click C "https://d3js.org?target=_blank" "D3Js"
 		click D "https://pages.github.com?target=_blank" "GitHub Pages"
 
-		classDef parhu fill:#212529,stroke:#343A40,color:white,stroke-width:2px;
+		classDef parhu fill:#343a40,stroke:#333,color:whitesmoke,stroke-width:2px;
 		class A,B,C,D parhu
 		</div>
 
@@ -299,7 +301,7 @@ dolgoznak, mintha a teljes szervezeti egységet ugyanaz a szolgáltató foglalko
     <!-- Footer -->
     <footer class="py-5 bg-dark">
       <div class="container">
-        <p class="m-0 text-center text-white">Copyright &copy; Párhuzamos Életrajzok</p>
+        <p class="m-0 text-center text-white">Párhuzamos Életrajzok</p>
       </div>
       <!-- /.container -->
     </footer>
