@@ -1,288 +1,422 @@
 {
   "nodes": [
-{"id":"Aesthetic Center","group":1,"edgenr":1},
-{"id":"Alfa EgÃ©szsÃ©gkÃ¶zpont","group":1,"edgenr":4},
-{"id":"AneszteziolÃ³giai Ã©s IntenzÃ­v TerÃ¡piÃ¡s Klinika","group":6,"edgenr":3},
-{"id":"ANTEMED Poliklinika","group":1,"edgenr":1},
-{"id":"Arc- Ãllcsont- SzÃ¡jsebÃ©szeti Ã©s FogÃ¡szati Klinika","group":6,"edgenr":3},
-{"id":"Ars Medica LÃ©zerklinika","group":1,"edgenr":1},
-{"id":"Ãrvai-Barta MED MagÃ¡nklinika","group":1,"edgenr":2},
-{"id":"BelvÃ¡rosi EgÃ©szsÃ©gcentrum","group":1,"edgenr":2},
-{"id":"BelvÃ¡rosi Orvosi Centrum","group":1,"edgenr":2},
-{"id":"Benyovszky Orvosi KÃ¶zpont","group":1,"edgenr":3},
-{"id":"BÅ‘r-, NemikÃ³rtani Ã©s BÅ‘ronkolÃ³giai Klinika","group":6,"edgenr":13},
-{"id":"Budai Corvin Orvosi RendelÅ‘","group":1,"edgenr":3},
-{"id":"Budai EgÃ©szsÃ©gkÃ¶zpont","group":1,"edgenr":13},
-{"id":"Budai MagÃ¡norvosi Centrum","group":1,"edgenr":3},
-{"id":"Budapest Plasztikai IntÃ©zet","group":1,"edgenr":1},
-{"id":"Budapesti MozgÃ¡sszervi MagÃ¡nrendelÅ‘","group":1,"edgenr":2},
-{"id":"Czeizel IntÃ©zet","group":1,"edgenr":2},
-{"id":"CsalogÃ¡ny Orvosi KÃ¶zpont","group":1,"edgenr":1},
-{"id":"Da Vinci MagÃ¡nklinika","group":1,"edgenr":1},
-{"id":"DentalCoop","group":1,"edgenr":1},
-{"id":"Dentop FogÃ¡szati RendelÅ‘","group":1,"edgenr":1},
-{"id":"Dolomit-Med Orvosi Centrum","group":1,"edgenr":1},
-{"id":"Dr. Rose MagÃ¡nklinika","group":1,"edgenr":7},
-{"id":"Dr. Rose MagÃ¡nkÃ³rhÃ¡z","group":1,"edgenr":2},
-{"id":"Dr. Sobel - Dr. Zinner NÅ‘gyÃ³gyÃ¡szat","group":1,"edgenr":1},
-{"id":"Dr. Sobel - Dr. Zinner NÅ‘gyÅ‘gyÃ¡szat","group":1,"edgenr":1},
-{"id":"Dr. TÃºri Ã©s TÃ¡rsa Orvosi RendelÅ‘","group":1,"edgenr":1},
-{"id":"Duna Medical Center","group":1,"edgenr":15},
-{"id":"EgÃ©szsÃ©gliget","group":1,"edgenr":1},
-{"id":"Emineo EgÃ©szsÃ©gÃ¼gyi Ã©s Baleseti KÃ¶zpont","group":1,"edgenr":2},
-{"id":"FirstMed","group":1,"edgenr":4},
-{"id":"FogÃ¡szati Ã©s SzÃ¡jsebÃ©szeti OktatÃ³ IntÃ©zet","group":6,"edgenr":1},
-{"id":"FÅ‘nix Medical Center","group":1,"edgenr":2},
-{"id":"Friendly Dentists & Co.","group":1,"edgenr":1},
-{"id":"FÃ¼l-Orr-GÃ©gÃ©szeti Ã©s Fej-NyaksebÃ©szeti Klinika","group":6,"edgenr":8},
-{"id":"G1 IntÃ©zet","group":1,"edgenr":4},
-{"id":"Gastromed","group":1,"edgenr":1},
-{"id":"Genium EgÃ©szsÃ©gÃ¼gyi, CsalÃ¡dtervezÃ©si Ã©s Diagnosztikai KÃ¶zpont","group":1,"edgenr":3},
-{"id":"GyermekfogÃ¡szati Ã©s FogszabÃ¡lyozÃ¡si Klinika","group":6,"edgenr":1},
-{"id":"Harmo-Derma Kft.","group":1,"edgenr":1},
-{"id":"HT Medical Center","group":1,"edgenr":5},
-{"id":"I. Sz. BelgyÃ³gyÃ¡szati Klinika","group":6,"edgenr":7},
-{"id":"I. Sz. GyermekgyÃ³gyÃ¡szati Klinika","group":6,"edgenr":10},
-{"id":"I. Sz. SebÃ©szeti Klinika","group":6,"edgenr":7},
-{"id":"I. Sz. SzÃ¼lÃ©szeti Ã©s NÅ‘gyÃ³gyÃ¡szati Klinika","group":6,"edgenr":16},
-{"id":"II. BelgyÃ³gyÃ¡szati Klinika","group":6,"edgenr":11},
-{"id":"II. Sz. GyermekgyÃ³gyÃ¡szati Klinika","group":6,"edgenr":15},
-{"id":"II. sz. SebÃ©szeti Klinika","group":6,"edgenr":5},
-{"id":"II. Sz. SzÃ¼lÃ©szeti Ã©s NÅ‘gyÃ³gyÃ¡szati Klinika","group":6,"edgenr":17},
-{"id":"III. Sz. BelgyÃ³gyÃ¡szati Klinika","group":6,"edgenr":4},
-{"id":"Istenhegyi Klinika","group":1,"edgenr":2},
-{"id":"Kelen KÃ³rhÃ¡z","group":1,"edgenr":6},
-{"id":"KÃ¶rÃºti OrvosesztÃ©tikai Centrum","group":1,"edgenr":1},
-{"id":"L33 Medical","group":1,"edgenr":1},
-{"id":"Liget EgÃ©szsÃ©gkÃ¶zpont","group":1,"edgenr":3},
-{"id":"magÃ¡nrendelÃ©s","group":1,"edgenr":5},
-{"id":"Mammut EgÃ©szsÃ©gkÃ¶zpont","group":1,"edgenr":3},
-{"id":"Maria Medical","group":1,"edgenr":3},
-{"id":"Maternity","group":1,"edgenr":5},
-{"id":"Med - Aesthetica MagÃ¡nklinika","group":1,"edgenr":3},
-{"id":"Medcity EgÃ©szsÃ©gkÃ¶zpont","group":1,"edgenr":1},
-{"id":"Medica Bella MagÃ¡nrendelÅ‘","group":1,"edgenr":1},
-{"id":"Medical Center Budapest","group":1,"edgenr":2},
-{"id":"Medicover KÃ³rhÃ¡z","group":1,"edgenr":4},
-{"id":"Medikids GyermekgyÃ³gyÃ¡szati KÃ¶zpont","group":1,"edgenr":2},
-{"id":"MediMOM EgÃ©szsÃ©gkÃ¶zpont","group":1,"edgenr":4},
-{"id":"Medoc EgÃ©szsÃ©gkÃ¶zpont","group":1,"edgenr":4},
-{"id":"MellkassebÃ©szeti Klinika - az OrszÃ¡gos OnkolÃ³giai IntÃ©zet bÃ¡zisÃ¡n","group":6,"edgenr":3},
-{"id":"Menta EgÃ©szsÃ©gkÃ¶zpont","group":1,"edgenr":2},
-{"id":"MOM Szent Magdolna MagÃ¡nkÃ³rhÃ¡z","group":1,"edgenr":5},
-{"id":"NeurolÃ³giai Klinika","group":6,"edgenr":8},
-{"id":"NÃ³zi EgÃ©szsÃ©gkÃ¶zpont","group":1,"edgenr":1},
-{"id":"Optimum LÃ¡tÃ¡sjavÃ­tÃ³ LÃ©zerkÃ¶zpont","group":1,"edgenr":1},
-{"id":"OrtopÃ©diai Klinika","group":6,"edgenr":9},
-{"id":"Ã–reghegyi MagÃ¡nklinika","group":1,"edgenr":3},
-{"id":"PanorÃ¡ma Medical Center","group":1,"edgenr":1},
-{"id":"ParodontolÃ³giai Klinika","group":6,"edgenr":1},
-{"id":"Premium Vision SzemÃ©szeti MagÃ¡nrendelÅ‘","group":1,"edgenr":1},
-{"id":"PszichiÃ¡triai Ã©s PszichoterÃ¡piÃ¡s Klinika","group":6,"edgenr":2},
-{"id":"PszichofÃ©szek","group":1,"edgenr":1},
-{"id":"PulmonolÃ³giai Klinika","group":6,"edgenr":4},
-{"id":"RadiolÃ³giai Klinika","group":6,"edgenr":5},
-{"id":"Regenero EgÃ©szsÃ©ghÃ¡z","group":1,"edgenr":4},
-{"id":"RÃ³bert KÃ¡roly MagÃ¡nkÃ³rhÃ¡z","group":1,"edgenr":4},
-{"id":"SALUS OrtopÃ©dtechnika","group":1,"edgenr":1},
-{"id":"SebkezelÃ©si Ã©s ÃpolÃ¡si Centrum - GyÅ‘r","group":1,"edgenr":1},
-{"id":"SebkezelÃ©si Ã©s ÃpolÃ¡si Centrum - KaposvÃ¡r, SiÃ³fok, VeszprÃ©m","group":1,"edgenr":1},
-{"id":"Seereiner FogÃ¡szati MagÃ¡nrendelÅ‘","group":1,"edgenr":1},
-{"id":"Spineart EgÃ©szsÃ©gkÃ¶zpont","group":1,"edgenr":1},
-{"id":"SvÃ¡bhegyi GyermekgyÃ³gyintÃ©zet","group":1,"edgenr":3},
-{"id":"Swiss Clinic","group":1,"edgenr":6},
-{"id":"SzemÃ©szeti Klinika","group":6,"edgenr":13},
-{"id":"TranszplantÃ¡ciÃ³s Ã©s SebÃ©szeti Klinika","group":6,"edgenr":4},
-{"id":"UrolÃ³giai Klinika","group":6,"edgenr":4},
-{"id":"VÃ¡rosmajori SzÃ­v- Ã©s Ã‰rgyÃ³gyÃ¡szati Klinika","group":6,"edgenr":11},
-{"id":"Vita-Pharm MagÃ¡nklinika","group":1,"edgenr":1},
-{"id":"VP-Med EgÃ©szsÃ©gcentrum","group":1,"edgenr":1}
+{"id":"4D Szentendre","group":1,"edgenr":1}
+{"id":"Aesthetic Center","group":1,"edgenr":1}
+{"id":"Alfa Egészségközpont","group":1,"edgenr":4}
+{"id":"Aneszteziológiai és Intenzív Terápiás Klinika","group":6,"edgenr":7}
+{"id":"ANTEMED Poliklinika","group":1,"edgenr":1}
+{"id":"Arc- Állcsont- Szájsebészeti és Fogászati Klinika","group":6,"edgenr":3}
+{"id":"Ars Medica Lézerklinika","group":1,"edgenr":1}
+{"id":"Árvai-Barta MED Magánklinika","group":1,"edgenr":2}
+{"id":"Belvárosi Egészségcentrum","group":1,"edgenr":2}
+{"id":"Belvárosi Orvosi Centrum","group":1,"edgenr":3}
+{"id":"Bemer 3000","group":1,"edgenr":1}
+{"id":"Benyovszky Orvosi Központ","group":1,"edgenr":4}
+{"id":"Bicskei Egészségügyi Központ","group":1,"edgenr":1}
+{"id":"Boróka Egészségház","group":1,"edgenr":1}
+{"id":"Bõr-, Nemikórtani és Bõronkológiai Klinika","group":6,"edgenr":16}
+{"id":"Budai Corvin Orvosi Rendelõ","group":1,"edgenr":4}
+{"id":"Budai Egészségközpont","group":1,"edgenr":14}
+{"id":"Budai Endokrinközpont","group":1,"edgenr":2}
+{"id":"Budai Magánorvosi Centrum","group":1,"edgenr":5}
+{"id":"Budai Szemészeti Központ","group":1,"edgenr":1}
+{"id":"Budai Szemészeti Központ| Kútvölgyi Prémium Egészségközpont","group":1,"edgenr":1}
+{"id":"Budapest Plasztikai Intézet","group":1,"edgenr":1}
+{"id":"Budapest Ultrahang","group":1,"edgenr":1}
+{"id":"Budapesti Mozgásszervi Magánrendelõ","group":1,"edgenr":2}
+{"id":"Cleopatra Medical Center","group":1,"edgenr":2}
+{"id":"Czeizel Intézet","group":1,"edgenr":2}
+{"id":"Csalogány Orvosi Központ","group":1,"edgenr":1}
+{"id":"Da Vinci Magánklinika","group":1,"edgenr":1}
+{"id":"DAVID Gerincklinika","group":1,"edgenr":2}
+{"id":"DentalCoop","group":1,"edgenr":1}
+{"id":"Dentop Fogászati Rendelõ","group":1,"edgenr":1}
+{"id":"Dolomit-Med Orvosi Centrum","group":1,"edgenr":1}
+{"id":"Dr. Gimes Gábor magánrendelése","group":1,"edgenr":1}
+{"id":"Dr. Rose Magánklinika","group":1,"edgenr":7}
+{"id":"Dr. Rose Magánkórház","group":1,"edgenr":2}
+{"id":"Dr. Sobel - Dr. Zinner Nõgyógyászat","group":1,"edgenr":1}
+{"id":"Dr. Túri és Társa Orvosi Rendelõ","group":1,"edgenr":1}
+{"id":"Duna Medical Center","group":1,"edgenr":15}
+{"id":"Dunapart Medical Magánrendelés","group":1,"edgenr":1}
+{"id":"Egészségliget","group":1,"edgenr":1}
+{"id":"Elsõ Lépések Kora Gyermekkori Intervenciós Alapítvány","group":1,"edgenr":1}
+{"id":"Emineo Egészségügyi és Baleseti Központ","group":1,"edgenr":2}
+{"id":"Endo-Kapszula Magánorvosi Centrum","group":1,"edgenr":1}
+{"id":"Endomedix Diagnosztikai Központ","group":1,"edgenr":1}
+{"id":"Endomedix Diagnosztikai Központ| Panoráma Medical Center","group":1,"edgenr":1}
+{"id":"Examed Medical Center","group":1,"edgenr":2}
+{"id":"FemiMed Szülészeti és Nõgyógyászati Magánrendelõ","group":1,"edgenr":1}
+{"id":"FirstMed","group":1,"edgenr":4}
+{"id":"Fogászati és Szájsebészeti Oktató Intézet","group":6,"edgenr":1}
+{"id":"Fõnix Medical Center","group":1,"edgenr":2}
+{"id":"Friendly Dentists & Co.","group":1,"edgenr":1}
+{"id":"Fül-Orr-Gégészeti és Fej-Nyaksebészeti Klinika","group":6,"edgenr":16}
+{"id":"G1 Intézet","group":1,"edgenr":4}
+{"id":"Gastromed","group":1,"edgenr":1}
+{"id":"Genium Egészségügyi, Családtervezési és Diagnosztikai Központ","group":1,"edgenr":3}
+{"id":"Genomikai Medicina és Ritka Betegségek Intézete","group":6,"edgenr":1}
+{"id":"Gyermekfogászati és Fogszabályozási Klinika","group":6,"edgenr":3}
+{"id":"Harmo-Derma Kft.","group":1,"edgenr":1}
+{"id":"HT Medical Center","group":1,"edgenr":5}
+{"id":"I. Sz. Belgyógyászati Klinika","group":6,"edgenr":9}
+{"id":"I. Sz. Gyermekgyógyászati Klinika","group":6,"edgenr":17}
+{"id":"I. Sz. Sebészeti Klinika","group":6,"edgenr":12}
+{"id":"I. Sz. Szülészeti és Nõgyógyászati Klinika","group":6,"edgenr":21}
+{"id":"II. Belgyógyászati Klinika","group":6,"edgenr":15}
+{"id":"II. Sz. Gyermekgyógyászati Klinika","group":6,"edgenr":17}
+{"id":"II. sz. Sebészeti Klinika","group":6,"edgenr":7}
+{"id":"II. Sz. Szülészeti és Nõgyógyászati Klinika","group":6,"edgenr":18}
+{"id":"III. Sz. Belgyógyászati Klinika","group":6,"edgenr":5}
+{"id":"Istenhegyi Géndiagnosztikai Klinika","group":1,"edgenr":2}
+{"id":"Istenhegyi Klinika","group":1,"edgenr":2}
+{"id":"Kelen Kórház","group":1,"edgenr":6}
+{"id":"Körúti Orvosesztétikai Centrum","group":1,"edgenr":1}
+{"id":"Krama Egészségközpont","group":1,"edgenr":1}
+{"id":"L33 Medical","group":1,"edgenr":1}
+{"id":"Liget Egészségközpont","group":1,"edgenr":3}
+{"id":"magánrendelés","group":1,"edgenr":8}
+{"id":"Mammut Egészségközpont","group":1,"edgenr":3}
+{"id":"Maria Medical","group":1,"edgenr":3}
+{"id":"Maternity","group":1,"edgenr":5}
+{"id":"McKenzie Intézet","group":1,"edgenr":1}
+{"id":"Med - Aesthetica Magánklinika","group":1,"edgenr":4}
+{"id":"Medcity Egészségközpont","group":1,"edgenr":1}
+{"id":"Medica Bella Magánrendelõ","group":1,"edgenr":1}
+{"id":"Medical Center Budapest","group":1,"edgenr":2}
+{"id":"Medicina Egészségközpont","group":1,"edgenr":4}
+{"id":"Medicover Kórház","group":1,"edgenr":4}
+{"id":"Medikids Gyermekgyógyászati Központ","group":1,"edgenr":2}
+{"id":"MediMOM Egészségközpont","group":1,"edgenr":4}
+{"id":"MediMOM Egészségközpont| Protone Audio","group":1,"edgenr":1}
+{"id":"Medoc Egészségközpont","group":1,"edgenr":4}
+{"id":"Medve Medical Egészségközpont","group":1,"edgenr":3}
+{"id":"Mellkassebészeti Klinika - az Országos Onkológiai Intézet bázisán","group":6,"edgenr":4}
+{"id":"Menta Egészségközpont","group":1,"edgenr":2}
+{"id":"Mini Klinika","group":1,"edgenr":2}
+{"id":"Mom Szent Magdolna Magánkórház","group":1,"edgenr":1}
+{"id":"MOM Szent Magdolna Magánkórház","group":1,"edgenr":5}
+{"id":"MRI Med","group":1,"edgenr":1}
+{"id":"Netrendelõ","group":1,"edgenr":2}
+{"id":"Neurológiai Klinika","group":6,"edgenr":10}
+{"id":"NewContour","group":1,"edgenr":1}
+{"id":"Nózi Egészségközpont","group":1,"edgenr":1}
+{"id":"Onkomplex Rákdiagnosztika és Asszisztencia","group":1,"edgenr":3}
+{"id":"Optimum Látásjavító Lézerközpont","group":1,"edgenr":1}
+{"id":"Ortopédiai Klinika","group":6,"edgenr":13}
+{"id":"Öreghegyi Magánklinika","group":1,"edgenr":3}
+{"id":"Panoráma Medical Center","group":1,"edgenr":2}
+{"id":"Parodontológiai Klinika","group":6,"edgenr":1}
+{"id":"Pasamed","group":1,"edgenr":2}
+{"id":"Periderm Bõrgyõgyászati Stúdió","group":1,"edgenr":1}
+{"id":"Premier Med Egészségközpont","group":1,"edgenr":1}
+{"id":"Premium Vision Szemészeti Magánrendelõ","group":1,"edgenr":1}
+{"id":"Privátgasztro","group":1,"edgenr":1}
+{"id":"Professional Orvosi Rendelõ","group":1,"edgenr":3}
+{"id":"Pszichiátriai és Pszichoterápiás Klinika","group":6,"edgenr":2}
+{"id":"Pszichofészek","group":1,"edgenr":1}
+{"id":"Pulmonológiai Klinika","group":6,"edgenr":5}
+{"id":"Radiológiai Klinika","group":6,"edgenr":12}
+{"id":"Regenero Egészségház","group":1,"edgenr":4}
+{"id":"Ring Klinika","group":1,"edgenr":1}
+{"id":"Róbert Károly Magánkórház","group":1,"edgenr":4}
+{"id":"Rózsakert Medical Center","group":1,"edgenr":8}
+{"id":"SALUS Ortopédtechnika","group":1,"edgenr":2}
+{"id":"Santemed Clinique","group":1,"edgenr":1}
+{"id":"Sasadi Egészségközpont","group":1,"edgenr":1}
+{"id":"Sebkezelési és Ápolási Centrum - Gyõr","group":1,"edgenr":1}
+{"id":"Sebkezelési és Ápolási Centrum - Kaposvár, Siófok, Veszprém","group":1,"edgenr":1}
+{"id":"Seereiner Fogászati Magánrendelõ","group":1,"edgenr":1}
+{"id":"Spineart Egészségközpont","group":1,"edgenr":1}
+{"id":"Svábhegyi Gyermekgyógyintézet","group":1,"edgenr":3}
+{"id":"Swiss Clinic","group":1,"edgenr":6}
+{"id":"Szemészeti Klinika","group":6,"edgenr":18}
+{"id":"Szent Ferenc Egészségügyi Központ","group":1,"edgenr":3}
+{"id":"Szervita Medical","group":1,"edgenr":1}
+{"id":"Szevermed Mozgásszervi Központ","group":1,"edgenr":1}
+{"id":"Tenuitas Egészség Stúdió","group":1,"edgenr":1}
+{"id":"Tóbiás Optika","group":1,"edgenr":1}
+{"id":"Transzplantációs és Sebészeti Klinika","group":6,"edgenr":10}
+{"id":"Urológiai Klinika","group":6,"edgenr":11}
+{"id":"Uropatika","group":1,"edgenr":1}
+{"id":"Uroperspekt Orvosi Centrum Kft.","group":1,"edgenr":1}
+{"id":"Városmajori Szív- és Érgyógyászati Klinika","group":6,"edgenr":17}
+{"id":"Victofon","group":1,"edgenr":1}
+{"id":"Virányos Klinika","group":1,"edgenr":2}
+{"id":"Vita-Pharm Magánklinika","group":1,"edgenr":1}
+{"id":"VP-Med Egészségcentrum","group":1,"edgenr":1}
 ],
   "links": [
-{"source":"II. sz. SebÃ©szeti Klinika","target":"Aesthetic Center","value":1},
-{"source":"BÅ‘r-, NemikÃ³rtani Ã©s BÅ‘ronkolÃ³giai Klinika","target":"Alfa EgÃ©szsÃ©gkÃ¶zpont","value":2},
-{"source":"I. Sz. SzÃ¼lÃ©szeti Ã©s NÅ‘gyÃ³gyÃ¡szati Klinika","target":"Alfa EgÃ©szsÃ©gkÃ¶zpont","value":1},
-{"source":"II. BelgyÃ³gyÃ¡szati Klinika","target":"Alfa EgÃ©szsÃ©gkÃ¶zpont","value":1},
-{"source":"VÃ¡rosmajori SzÃ­v- Ã©s Ã‰rgyÃ³gyÃ¡szati Klinika","target":"Alfa EgÃ©szsÃ©gkÃ¶zpont","value":2},
-{"source":"I. Sz. SzÃ¼lÃ©szeti Ã©s NÅ‘gyÃ³gyÃ¡szati Klinika","target":"ANTEMED Poliklinika","value":1},
-{"source":"FÃ¼l-Orr-GÃ©gÃ©szeti Ã©s Fej-NyaksebÃ©szeti Klinika","target":"Ars Medica LÃ©zerklinika","value":2},
-{"source":"FÃ¼l-Orr-GÃ©gÃ©szeti Ã©s Fej-NyaksebÃ©szeti Klinika","target":"Ãrvai-Barta MED MagÃ¡nklinika","value":1},
-{"source":"NeurolÃ³giai Klinika","target":"Ãrvai-Barta MED MagÃ¡nklinika","value":1},
-{"source":"BÅ‘r-, NemikÃ³rtani Ã©s BÅ‘ronkolÃ³giai Klinika","target":"BelvÃ¡rosi EgÃ©szsÃ©gcentrum","value":1},
-{"source":"II. sz. SebÃ©szeti Klinika","target":"BelvÃ¡rosi EgÃ©szsÃ©gcentrum","value":1},
-{"source":"BÅ‘r-, NemikÃ³rtani Ã©s BÅ‘ronkolÃ³giai Klinika","target":"BelvÃ¡rosi Orvosi Centrum","value":1},
-{"source":"I. Sz. SzÃ¼lÃ©szeti Ã©s NÅ‘gyÃ³gyÃ¡szati Klinika","target":"BelvÃ¡rosi Orvosi Centrum","value":1},
-{"source":"II. BelgyÃ³gyÃ¡szati Klinika","target":"Benyovszky Orvosi KÃ¶zpont","value":1},
-{"source":"II. Sz. GyermekgyÃ³gyÃ¡szati Klinika","target":"Benyovszky Orvosi KÃ¶zpont","value":1},
-{"source":"SzemÃ©szeti Klinika","target":"Benyovszky Orvosi KÃ¶zpont","value":1},
-{"source":"AneszteziolÃ³giai Ã©s IntenzÃ­v TerÃ¡piÃ¡s Klinika","target":"Budai Corvin Orvosi RendelÅ‘","value":1},
-{"source":"I. Sz. SzÃ¼lÃ©szeti Ã©s NÅ‘gyÃ³gyÃ¡szati Klinika","target":"Budai Corvin Orvosi RendelÅ‘","value":1},
-{"source":"NeurolÃ³giai Klinika","target":"Budai Corvin Orvosi RendelÅ‘","value":1},
-{"source":"BÅ‘r-, NemikÃ³rtani Ã©s BÅ‘ronkolÃ³giai Klinika","target":"Budai EgÃ©szsÃ©gkÃ¶zpont","value":2},
-{"source":"FÃ¼l-Orr-GÃ©gÃ©szeti Ã©s Fej-NyaksebÃ©szeti Klinika","target":"Budai EgÃ©szsÃ©gkÃ¶zpont","value":3},
-{"source":"I. Sz. BelgyÃ³gyÃ¡szati Klinika","target":"Budai EgÃ©szsÃ©gkÃ¶zpont","value":2},
-{"source":"I. Sz. GyermekgyÃ³gyÃ¡szati Klinika","target":"Budai EgÃ©szsÃ©gkÃ¶zpont","value":1},
-{"source":"II. BelgyÃ³gyÃ¡szati Klinika","target":"Budai EgÃ©szsÃ©gkÃ¶zpont","value":2},
-{"source":"II. Sz. GyermekgyÃ³gyÃ¡szati Klinika","target":"Budai EgÃ©szsÃ©gkÃ¶zpont","value":2},
-{"source":"II. sz. SebÃ©szeti Klinika","target":"Budai EgÃ©szsÃ©gkÃ¶zpont","value":2},
-{"source":"II. Sz. SzÃ¼lÃ©szeti Ã©s NÅ‘gyÃ³gyÃ¡szati Klinika","target":"Budai EgÃ©szsÃ©gkÃ¶zpont","value":1},
-{"source":"NeurolÃ³giai Klinika","target":"Budai EgÃ©szsÃ©gkÃ¶zpont","value":1},
-{"source":"OrtopÃ©diai Klinika","target":"Budai EgÃ©szsÃ©gkÃ¶zpont","value":2},
-{"source":"SzemÃ©szeti Klinika","target":"Budai EgÃ©szsÃ©gkÃ¶zpont","value":1},
-{"source":"TranszplantÃ¡ciÃ³s Ã©s SebÃ©szeti Klinika","target":"Budai EgÃ©szsÃ©gkÃ¶zpont","value":1},
-{"source":"VÃ¡rosmajori SzÃ­v- Ã©s Ã‰rgyÃ³gyÃ¡szati Klinika","target":"Budai EgÃ©szsÃ©gkÃ¶zpont","value":1},
-{"source":"II. Sz. GyermekgyÃ³gyÃ¡szati Klinika","target":"Budai MagÃ¡norvosi Centrum","value":1},
-{"source":"II. Sz. SzÃ¼lÃ©szeti Ã©s NÅ‘gyÃ³gyÃ¡szati Klinika","target":"Budai MagÃ¡norvosi Centrum","value":1},
-{"source":"PulmonolÃ³giai Klinika","target":"Budai MagÃ¡norvosi Centrum","value":1},
-{"source":"I. Sz. SebÃ©szeti Klinika","target":"Budapest Plasztikai IntÃ©zet","value":2},
-{"source":"NeurolÃ³giai Klinika","target":"Budapesti MozgÃ¡sszervi MagÃ¡nrendelÅ‘","value":1},
-{"source":"OrtopÃ©diai Klinika","target":"Budapesti MozgÃ¡sszervi MagÃ¡nrendelÅ‘","value":5},
-{"source":"II. Sz. GyermekgyÃ³gyÃ¡szati Klinika","target":"Czeizel IntÃ©zet","value":3},
-{"source":"II. Sz. SzÃ¼lÃ©szeti Ã©s NÅ‘gyÃ³gyÃ¡szati Klinika","target":"Czeizel IntÃ©zet","value":1},
-{"source":"BÅ‘r-, NemikÃ³rtani Ã©s BÅ‘ronkolÃ³giai Klinika","target":"CsalogÃ¡ny Orvosi KÃ¶zpont","value":3},
-{"source":"Arc- Ãllcsont- SzÃ¡jsebÃ©szeti Ã©s FogÃ¡szati Klinika","target":"Da Vinci MagÃ¡nklinika","value":1},
-{"source":"GyermekfogÃ¡szati Ã©s FogszabÃ¡lyozÃ¡si Klinika","target":"DentalCoop","value":1},
-{"source":"ParodontolÃ³giai Klinika","target":"Dentop FogÃ¡szati RendelÅ‘","value":2},
-{"source":"MellkassebÃ©szeti Klinika - az OrszÃ¡gos OnkolÃ³giai IntÃ©zet bÃ¡zisÃ¡n","target":"Dolomit-Med Orvosi Centrum","value":1},
-{"source":"I. Sz. SebÃ©szeti Klinika","target":"Dr. Rose MagÃ¡nklinika","value":2},
-{"source":"I. Sz. SzÃ¼lÃ©szeti Ã©s NÅ‘gyÃ³gyÃ¡szati Klinika","target":"Dr. Rose MagÃ¡nklinika","value":1},
-{"source":"II. Sz. GyermekgyÃ³gyÃ¡szati Klinika","target":"Dr. Rose MagÃ¡nklinika","value":1},
-{"source":"NeurolÃ³giai Klinika","target":"Dr. Rose MagÃ¡nklinika","value":1},
-{"source":"PulmonolÃ³giai Klinika","target":"Dr. Rose MagÃ¡nklinika","value":1},
-{"source":"SzemÃ©szeti Klinika","target":"Dr. Rose MagÃ¡nklinika","value":1},
-{"source":"UrolÃ³giai Klinika","target":"Dr. Rose MagÃ¡nklinika","value":1},
-{"source":"RadiolÃ³giai Klinika","target":"Dr. Rose MagÃ¡nkÃ³rhÃ¡z","value":1},
-{"source":"UrolÃ³giai Klinika","target":"Dr. Rose MagÃ¡nkÃ³rhÃ¡z","value":1},
-{"source":"II. Sz. SzÃ¼lÃ©szeti Ã©s NÅ‘gyÃ³gyÃ¡szati Klinika","target":"Dr. Sobel - Dr. Zinner NÅ‘gyÃ³gyÃ¡szat","value":1},
-{"source":"II. Sz. SzÃ¼lÃ©szeti Ã©s NÅ‘gyÃ³gyÃ¡szati Klinika","target":"Dr. Sobel - Dr. Zinner NÅ‘gyÅ‘gyÃ¡szat","value":1},
-{"source":"I. Sz. SzÃ¼lÃ©szeti Ã©s NÅ‘gyÃ³gyÃ¡szati Klinika","target":"Dr. TÃºri Ã©s TÃ¡rsa Orvosi RendelÅ‘","value":1},
-{"source":"BÅ‘r-, NemikÃ³rtani Ã©s BÅ‘ronkolÃ³giai Klinika","target":"Duna Medical Center","value":1},
-{"source":"FÃ¼l-Orr-GÃ©gÃ©szeti Ã©s Fej-NyaksebÃ©szeti Klinika","target":"Duna Medical Center","value":2},
-{"source":"I. Sz. BelgyÃ³gyÃ¡szati Klinika","target":"Duna Medical Center","value":1},
-{"source":"I. Sz. GyermekgyÃ³gyÃ¡szati Klinika","target":"Duna Medical Center","value":3},
-{"source":"I. Sz. SebÃ©szeti Klinika","target":"Duna Medical Center","value":3},
-{"source":"I. Sz. SzÃ¼lÃ©szeti Ã©s NÅ‘gyÃ³gyÃ¡szati Klinika","target":"Duna Medical Center","value":5},
-{"source":"II. BelgyÃ³gyÃ¡szati Klinika","target":"Duna Medical Center","value":1},
-{"source":"II. Sz. GyermekgyÃ³gyÃ¡szati Klinika","target":"Duna Medical Center","value":3},
-{"source":"III. Sz. BelgyÃ³gyÃ¡szati Klinika","target":"Duna Medical Center","value":2},
-{"source":"MellkassebÃ©szeti Klinika - az OrszÃ¡gos OnkolÃ³giai IntÃ©zet bÃ¡zisÃ¡n","target":"Duna Medical Center","value":3},
-{"source":"OrtopÃ©diai Klinika","target":"Duna Medical Center","value":3},
-{"source":"PszichiÃ¡triai Ã©s PszichoterÃ¡piÃ¡s Klinika","target":"Duna Medical Center","value":1},
-{"source":"SzemÃ©szeti Klinika","target":"Duna Medical Center","value":2},
-{"source":"TranszplantÃ¡ciÃ³s Ã©s SebÃ©szeti Klinika","target":"Duna Medical Center","value":2},
-{"source":"VÃ¡rosmajori SzÃ­v- Ã©s Ã‰rgyÃ³gyÃ¡szati Klinika","target":"Duna Medical Center","value":4},
-{"source":"SzemÃ©szeti Klinika","target":"EgÃ©szsÃ©gliget","value":1},
-{"source":"III. Sz. BelgyÃ³gyÃ¡szati Klinika","target":"Emineo EgÃ©szsÃ©gÃ¼gyi Ã©s Baleseti KÃ¶zpont","value":1},
-{"source":"VÃ¡rosmajori SzÃ­v- Ã©s Ã‰rgyÃ³gyÃ¡szati Klinika","target":"Emineo EgÃ©szsÃ©gÃ¼gyi Ã©s Baleseti KÃ¶zpont","value":1},
-{"source":"I. Sz. GyermekgyÃ³gyÃ¡szati Klinika","target":"FirstMed","value":4},
-{"source":"II. Sz. GyermekgyÃ³gyÃ¡szati Klinika","target":"FirstMed","value":2},
-{"source":"II. Sz. SzÃ¼lÃ©szeti Ã©s NÅ‘gyÃ³gyÃ¡szati Klinika","target":"FirstMed","value":2},
-{"source":"UrolÃ³giai Klinika","target":"FirstMed","value":1},
-{"source":"SzemÃ©szeti Klinika","target":"FÅ‘nix Medical Center","value":1},
-{"source":"VÃ¡rosmajori SzÃ­v- Ã©s Ã‰rgyÃ³gyÃ¡szati Klinika","target":"FÅ‘nix Medical Center","value":1},
-{"source":"BÅ‘r-, NemikÃ³rtani Ã©s BÅ‘ronkolÃ³giai Klinika","target":"Friendly Dentists & Co.","value":1},
-{"source":"BÅ‘r-, NemikÃ³rtani Ã©s BÅ‘ronkolÃ³giai Klinika","target":"G1 IntÃ©zet","value":6},
-{"source":"I. Sz. SzÃ¼lÃ©szeti Ã©s NÅ‘gyÃ³gyÃ¡szati Klinika","target":"G1 IntÃ©zet","value":7},
-{"source":"II. Sz. SzÃ¼lÃ©szeti Ã©s NÅ‘gyÃ³gyÃ¡szati Klinika","target":"G1 IntÃ©zet","value":1},
-{"source":"TranszplantÃ¡ciÃ³s Ã©s SebÃ©szeti Klinika","target":"G1 IntÃ©zet","value":2},
-{"source":"I. Sz. SebÃ©szeti Klinika","target":"Gastromed","value":1},
-{"source":"I. Sz. SzÃ¼lÃ©szeti Ã©s NÅ‘gyÃ³gyÃ¡szati Klinika","target":"Genium EgÃ©szsÃ©gÃ¼gyi, CsalÃ¡dtervezÃ©si Ã©s Diagnosztikai KÃ¶zpont","value":1},
-{"source":"II. Sz. GyermekgyÃ³gyÃ¡szati Klinika","target":"Genium EgÃ©szsÃ©gÃ¼gyi, CsalÃ¡dtervezÃ©si Ã©s Diagnosztikai KÃ¶zpont","value":1},
-{"source":"II. Sz. SzÃ¼lÃ©szeti Ã©s NÅ‘gyÃ³gyÃ¡szati Klinika","target":"Genium EgÃ©szsÃ©gÃ¼gyi, CsalÃ¡dtervezÃ©si Ã©s Diagnosztikai KÃ¶zpont","value":3},
-{"source":"BÅ‘r-, NemikÃ³rtani Ã©s BÅ‘ronkolÃ³giai Klinika","target":"Harmo-Derma Kft.","value":2},
-{"source":"I. Sz. BelgyÃ³gyÃ¡szati Klinika","target":"HT Medical Center","value":1},
-{"source":"I. Sz. SzÃ¼lÃ©szeti Ã©s NÅ‘gyÃ³gyÃ¡szati Klinika","target":"HT Medical Center","value":1},
-{"source":"II. Sz. GyermekgyÃ³gyÃ¡szati Klinika","target":"HT Medical Center","value":1},
-{"source":"II. sz. SebÃ©szeti Klinika","target":"HT Medical Center","value":1},
-{"source":"NeurolÃ³giai Klinika","target":"HT Medical Center","value":2},
-{"source":"II. sz. SebÃ©szeti Klinika","target":"Istenhegyi Klinika","value":1},
-{"source":"RadiolÃ³giai Klinika","target":"Istenhegyi Klinika","value":1},
-{"source":"BÅ‘r-, NemikÃ³rtani Ã©s BÅ‘ronkolÃ³giai Klinika","target":"Kelen KÃ³rhÃ¡z","value":1},
-{"source":"FÃ¼l-Orr-GÃ©gÃ©szeti Ã©s Fej-NyaksebÃ©szeti Klinika","target":"Kelen KÃ³rhÃ¡z","value":1},
-{"source":"I. Sz. GyermekgyÃ³gyÃ¡szati Klinika","target":"Kelen KÃ³rhÃ¡z","value":1},
-{"source":"II. Sz. GyermekgyÃ³gyÃ¡szati Klinika","target":"Kelen KÃ³rhÃ¡z","value":1},
-{"source":"PulmonolÃ³giai Klinika","target":"Kelen KÃ³rhÃ¡z","value":1},
-{"source":"VÃ¡rosmajori SzÃ­v- Ã©s Ã‰rgyÃ³gyÃ¡szati Klinika","target":"Kelen KÃ³rhÃ¡z","value":1},
-{"source":"BÅ‘r-, NemikÃ³rtani Ã©s BÅ‘ronkolÃ³giai Klinika","target":"KÃ¶rÃºti OrvosesztÃ©tikai Centrum","value":4},
-{"source":"I. Sz. SzÃ¼lÃ©szeti Ã©s NÅ‘gyÃ³gyÃ¡szati Klinika","target":"L33 Medical","value":1},
-{"source":"I. Sz. SzÃ¼lÃ©szeti Ã©s NÅ‘gyÃ³gyÃ¡szati Klinika","target":"Liget EgÃ©szsÃ©gkÃ¶zpont","value":1},
-{"source":"II. BelgyÃ³gyÃ¡szati Klinika","target":"Liget EgÃ©szsÃ©gkÃ¶zpont","value":2},
-{"source":"OrtopÃ©diai Klinika","target":"Liget EgÃ©szsÃ©gkÃ¶zpont","value":1},
-{"source":"BÅ‘r-, NemikÃ³rtani Ã©s BÅ‘ronkolÃ³giai Klinika","target":"magÃ¡nrendelÃ©s","value":1},
-{"source":"II. BelgyÃ³gyÃ¡szati Klinika","target":"magÃ¡nrendelÃ©s","value":1},
-{"source":"II. Sz. GyermekgyÃ³gyÃ¡szati Klinika","target":"magÃ¡nrendelÃ©s","value":1},
-{"source":"II. Sz. SzÃ¼lÃ©szeti Ã©s NÅ‘gyÃ³gyÃ¡szati Klinika","target":"magÃ¡nrendelÃ©s","value":2},
-{"source":"SzemÃ©szeti Klinika","target":"magÃ¡nrendelÃ©s","value":1},
-{"source":"I. Sz. SzÃ¼lÃ©szeti Ã©s NÅ‘gyÃ³gyÃ¡szati Klinika","target":"Mammut EgÃ©szsÃ©gkÃ¶zpont","value":1},
-{"source":"II. BelgyÃ³gyÃ¡szati Klinika","target":"Mammut EgÃ©szsÃ©gkÃ¶zpont","value":1},
-{"source":"II. Sz. SzÃ¼lÃ©szeti Ã©s NÅ‘gyÃ³gyÃ¡szati Klinika","target":"Mammut EgÃ©szsÃ©gkÃ¶zpont","value":1},
-{"source":"BÅ‘r-, NemikÃ³rtani Ã©s BÅ‘ronkolÃ³giai Klinika","target":"Maria Medical","value":1},
-{"source":"II. Sz. SzÃ¼lÃ©szeti Ã©s NÅ‘gyÃ³gyÃ¡szati Klinika","target":"Maria Medical","value":3},
-{"source":"RadiolÃ³giai Klinika","target":"Maria Medical","value":1},
-{"source":"AneszteziolÃ³giai Ã©s IntenzÃ­v TerÃ¡piÃ¡s Klinika","target":"Maternity","value":1},
-{"source":"I. Sz. SebÃ©szeti Klinika","target":"Maternity","value":1},
-{"source":"I. Sz. SzÃ¼lÃ©szeti Ã©s NÅ‘gyÃ³gyÃ¡szati Klinika","target":"Maternity","value":1},
-{"source":"II. Sz. SzÃ¼lÃ©szeti Ã©s NÅ‘gyÃ³gyÃ¡szati Klinika","target":"Maternity","value":3},
-{"source":"III. Sz. BelgyÃ³gyÃ¡szati Klinika","target":"Maternity","value":1},
-{"source":"II. Sz. SzÃ¼lÃ©szeti Ã©s NÅ‘gyÃ³gyÃ¡szati Klinika","target":"Med - Aesthetica MagÃ¡nklinika","value":1},
-{"source":"RadiolÃ³giai Klinika","target":"Med - Aesthetica MagÃ¡nklinika","value":1},
-{"source":"VÃ¡rosmajori SzÃ­v- Ã©s Ã‰rgyÃ³gyÃ¡szati Klinika","target":"Med - Aesthetica MagÃ¡nklinika","value":1},
-{"source":"II. BelgyÃ³gyÃ¡szati Klinika","target":"Medcity EgÃ©szsÃ©gkÃ¶zpont","value":1},
-{"source":"II. Sz. SzÃ¼lÃ©szeti Ã©s NÅ‘gyÃ³gyÃ¡szati Klinika","target":"Medica Bella MagÃ¡nrendelÅ‘","value":4},
-{"source":"Arc- Ãllcsont- SzÃ¡jsebÃ©szeti Ã©s FogÃ¡szati Klinika","target":"Medical Center Budapest","value":1},
-{"source":"OrtopÃ©diai Klinika","target":"Medical Center Budapest","value":1},
-{"source":"FÃ¼l-Orr-GÃ©gÃ©szeti Ã©s Fej-NyaksebÃ©szeti Klinika","target":"Medicover KÃ³rhÃ¡z","value":1},
-{"source":"II. Sz. SzÃ¼lÃ©szeti Ã©s NÅ‘gyÃ³gyÃ¡szati Klinika","target":"Medicover KÃ³rhÃ¡z","value":1},
-{"source":"OrtopÃ©diai Klinika","target":"Medicover KÃ³rhÃ¡z","value":1},
-{"source":"VÃ¡rosmajori SzÃ­v- Ã©s Ã‰rgyÃ³gyÃ¡szati Klinika","target":"Medicover KÃ³rhÃ¡z","value":2},
-{"source":"I. Sz. GyermekgyÃ³gyÃ¡szati Klinika","target":"Medikids GyermekgyÃ³gyÃ¡szati KÃ¶zpont","value":4},
-{"source":"II. Sz. GyermekgyÃ³gyÃ¡szati Klinika","target":"Medikids GyermekgyÃ³gyÃ¡szati KÃ¶zpont","value":6},
-{"source":"FÃ¼l-Orr-GÃ©gÃ©szeti Ã©s Fej-NyaksebÃ©szeti Klinika","target":"MediMOM EgÃ©szsÃ©gkÃ¶zpont","value":2},
-{"source":"II. BelgyÃ³gyÃ¡szati Klinika","target":"MediMOM EgÃ©szsÃ©gkÃ¶zpont","value":1},
-{"source":"SzemÃ©szeti Klinika","target":"MediMOM EgÃ©szsÃ©gkÃ¶zpont","value":1},
-{"source":"VÃ¡rosmajori SzÃ­v- Ã©s Ã‰rgyÃ³gyÃ¡szati Klinika","target":"MediMOM EgÃ©szsÃ©gkÃ¶zpont","value":1},
-{"source":"II. Sz. GyermekgyÃ³gyÃ¡szati Klinika","target":"Medoc EgÃ©szsÃ©gkÃ¶zpont","value":1},
-{"source":"RadiolÃ³giai Klinika","target":"Medoc EgÃ©szsÃ©gkÃ¶zpont","value":1},
-{"source":"SzemÃ©szeti Klinika","target":"Medoc EgÃ©szsÃ©gkÃ¶zpont","value":2},
-{"source":"VÃ¡rosmajori SzÃ­v- Ã©s Ã‰rgyÃ³gyÃ¡szati Klinika","target":"Medoc EgÃ©szsÃ©gkÃ¶zpont","value":1},
-{"source":"I. Sz. SebÃ©szeti Klinika","target":"Menta EgÃ©szsÃ©gkÃ¶zpont","value":1},
-{"source":"OrtopÃ©diai Klinika","target":"Menta EgÃ©szsÃ©gkÃ¶zpont","value":5},
-{"source":"I. Sz. BelgyÃ³gyÃ¡szati Klinika","target":"MOM Szent Magdolna MagÃ¡nkÃ³rhÃ¡z","value":1},
-{"source":"I. Sz. SzÃ¼lÃ©szeti Ã©s NÅ‘gyÃ³gyÃ¡szati Klinika","target":"MOM Szent Magdolna MagÃ¡nkÃ³rhÃ¡z","value":1},
-{"source":"II. Sz. GyermekgyÃ³gyÃ¡szati Klinika","target":"MOM Szent Magdolna MagÃ¡nkÃ³rhÃ¡z","value":2},
-{"source":"OrtopÃ©diai Klinika","target":"MOM Szent Magdolna MagÃ¡nkÃ³rhÃ¡z","value":1},
-{"source":"UrolÃ³giai Klinika","target":"MOM Szent Magdolna MagÃ¡nkÃ³rhÃ¡z","value":1},
-{"source":"SzemÃ©szeti Klinika","target":"NÃ³zi EgÃ©szsÃ©gkÃ¶zpont","value":1},
-{"source":"SzemÃ©szeti Klinika","target":"Optimum LÃ¡tÃ¡sjavÃ­tÃ³ LÃ©zerkÃ¶zpont","value":6},
-{"source":"AneszteziolÃ³giai Ã©s IntenzÃ­v TerÃ¡piÃ¡s Klinika","target":"Ã–reghegyi MagÃ¡nklinika","value":1},
-{"source":"I. Sz. BelgyÃ³gyÃ¡szati Klinika","target":"Ã–reghegyi MagÃ¡nklinika","value":1},
-{"source":"I. Sz. GyermekgyÃ³gyÃ¡szati Klinika","target":"Ã–reghegyi MagÃ¡nklinika","value":1},
-{"source":"I. Sz. GyermekgyÃ³gyÃ¡szati Klinika","target":"PanorÃ¡ma Medical Center","value":1},
-{"source":"SzemÃ©szeti Klinika","target":"Premium Vision SzemÃ©szeti MagÃ¡nrendelÅ‘","value":5},
-{"source":"PszichiÃ¡triai Ã©s PszichoterÃ¡piÃ¡s Klinika","target":"PszichofÃ©szek","value":2},
-{"source":"II. BelgyÃ³gyÃ¡szati Klinika","target":"Regenero EgÃ©szsÃ©ghÃ¡z","value":3},
-{"source":"III. Sz. BelgyÃ³gyÃ¡szati Klinika","target":"Regenero EgÃ©szsÃ©ghÃ¡z","value":1},
-{"source":"NeurolÃ³giai Klinika","target":"Regenero EgÃ©szsÃ©ghÃ¡z","value":1},
-{"source":"PulmonolÃ³giai Klinika","target":"Regenero EgÃ©szsÃ©ghÃ¡z","value":1},
-{"source":"I. Sz. BelgyÃ³gyÃ¡szati Klinika","target":"RÃ³bert KÃ¡roly MagÃ¡nkÃ³rhÃ¡z","value":1},
-{"source":"I. Sz. SzÃ¼lÃ©szeti Ã©s NÅ‘gyÃ³gyÃ¡szati Klinika","target":"RÃ³bert KÃ¡roly MagÃ¡nkÃ³rhÃ¡z","value":1},
-{"source":"II. Sz. SzÃ¼lÃ©szeti Ã©s NÅ‘gyÃ³gyÃ¡szati Klinika","target":"RÃ³bert KÃ¡roly MagÃ¡nkÃ³rhÃ¡z","value":1},
-{"source":"OrtopÃ©diai Klinika","target":"RÃ³bert KÃ¡roly MagÃ¡nkÃ³rhÃ¡z","value":1},
-{"source":"I. Sz. GyermekgyÃ³gyÃ¡szati Klinika","target":"SALUS OrtopÃ©dtechnika","value":1},
-{"source":"Arc- Ãllcsont- SzÃ¡jsebÃ©szeti Ã©s FogÃ¡szati Klinika","target":"SebkezelÃ©si Ã©s ÃpolÃ¡si Centrum - GyÅ‘r","value":1},
-{"source":"TranszplantÃ¡ciÃ³s Ã©s SebÃ©szeti Klinika","target":"SebkezelÃ©si Ã©s ÃpolÃ¡si Centrum - KaposvÃ¡r, SiÃ³fok, VeszprÃ©m","value":1},
-{"source":"FogÃ¡szati Ã©s SzÃ¡jsebÃ©szeti OktatÃ³ IntÃ©zet","target":"Seereiner FogÃ¡szati MagÃ¡nrendelÅ‘","value":1},
-{"source":"I. Sz. GyermekgyÃ³gyÃ¡szati Klinika","target":"Spineart EgÃ©szsÃ©gkÃ¶zpont","value":1},
-{"source":"FÃ¼l-Orr-GÃ©gÃ©szeti Ã©s Fej-NyaksebÃ©szeti Klinika","target":"SvÃ¡bhegyi GyermekgyÃ³gyintÃ©zet","value":1},
-{"source":"I. Sz. GyermekgyÃ³gyÃ¡szati Klinika","target":"SvÃ¡bhegyi GyermekgyÃ³gyintÃ©zet","value":6},
-{"source":"II. Sz. GyermekgyÃ³gyÃ¡szati Klinika","target":"SvÃ¡bhegyi GyermekgyÃ³gyintÃ©zet","value":2},
-{"source":"I. Sz. BelgyÃ³gyÃ¡szati Klinika","target":"Swiss Clinic","value":3},
-{"source":"I. Sz. SebÃ©szeti Klinika","target":"Swiss Clinic","value":1},
-{"source":"II. Sz. SzÃ¼lÃ©szeti Ã©s NÅ‘gyÃ³gyÃ¡szati Klinika","target":"Swiss Clinic","value":1},
-{"source":"MellkassebÃ©szeti Klinika - az OrszÃ¡gos OnkolÃ³giai IntÃ©zet bÃ¡zisÃ¡n","target":"Swiss Clinic","value":2},
-{"source":"NeurolÃ³giai Klinika","target":"Swiss Clinic","value":2},
-{"source":"SzemÃ©szeti Klinika","target":"Swiss Clinic","value":1},
-{"source":"II. BelgyÃ³gyÃ¡szati Klinika","target":"Vita-Pharm MagÃ¡nklinika","value":1},
-{"source":"VÃ¡rosmajori SzÃ­v- Ã©s Ã‰rgyÃ³gyÃ¡szati Klinika","target":"VP-Med EgÃ©szsÃ©gcentrum","value":2}
+{"source":"Transzplantációs és Sebészeti Klinika","target":"4D Szentendre","value":1}
+{"source":"II. sz. Sebészeti Klinika","target":"Aesthetic Center","value":1}
+{"source":"Bõr-, Nemikórtani és Bõronkológiai Klinika","target":"Alfa Egészségközpont","value":2}
+{"source":"I. Sz. Szülészeti és Nõgyógyászati Klinika","target":"Alfa Egészségközpont","value":1}
+{"source":"II. Belgyógyászati Klinika","target":"Alfa Egészségközpont","value":1}
+{"source":"Városmajori Szív- és Érgyógyászati Klinika","target":"Alfa Egészségközpont","value":2}
+{"source":"I. Sz. Szülészeti és Nõgyógyászati Klinika","target":"ANTEMED Poliklinika","value":1}
+{"source":"Fül-Orr-Gégészeti és Fej-Nyaksebészeti Klinika","target":"Ars Medica Lézerklinika","value":4}
+{"source":"Fül-Orr-Gégészeti és Fej-Nyaksebészeti Klinika","target":"Árvai-Barta MED Magánklinika","value":1}
+{"source":"Neurológiai Klinika","target":"Árvai-Barta MED Magánklinika","value":1}
+{"source":"Bõr-, Nemikórtani és Bõronkológiai Klinika","target":"Belvárosi Egészségcentrum","value":1}
+{"source":"II. sz. Sebészeti Klinika","target":"Belvárosi Egészségcentrum","value":1}
+{"source":"Bõr-, Nemikórtani és Bõronkológiai Klinika","target":"Belvárosi Orvosi Centrum","value":1}
+{"source":"I. Sz. Szülészeti és Nõgyógyászati Klinika","target":"Belvárosi Orvosi Centrum","value":1}
+{"source":"Urológiai Klinika","target":"Belvárosi Orvosi Centrum","value":1}
+{"source":"Fül-Orr-Gégészeti és Fej-Nyaksebészeti Klinika","target":"Bemer 3000","value":1}
+{"source":"I. Sz. Gyermekgyógyászati Klinika","target":"Benyovszky Orvosi Központ","value":1}
+{"source":"II. Belgyógyászati Klinika","target":"Benyovszky Orvosi Központ","value":1}
+{"source":"II. Sz. Gyermekgyógyászati Klinika","target":"Benyovszky Orvosi Központ","value":1}
+{"source":"Szemészeti Klinika","target":"Benyovszky Orvosi Központ","value":1}
+{"source":"Radiológiai Klinika","target":"Bicskei Egészségügyi Központ","value":3}
+{"source":"I. Sz. Szülészeti és Nõgyógyászati Klinika","target":"Boróka Egészségház","value":1}
+{"source":"Aneszteziológiai és Intenzív Terápiás Klinika","target":"Budai Corvin Orvosi Rendelõ","value":1}
+{"source":"Fül-Orr-Gégészeti és Fej-Nyaksebészeti Klinika","target":"Budai Corvin Orvosi Rendelõ","value":3}
+{"source":"I. Sz. Szülészeti és Nõgyógyászati Klinika","target":"Budai Corvin Orvosi Rendelõ","value":1}
+{"source":"Neurológiai Klinika","target":"Budai Corvin Orvosi Rendelõ","value":1}
+{"source":"Bõr-, Nemikórtani és Bõronkológiai Klinika","target":"Budai Egészségközpont","value":2}
+{"source":"Fül-Orr-Gégészeti és Fej-Nyaksebészeti Klinika","target":"Budai Egészségközpont","value":3}
+{"source":"Genomikai Medicina és Ritka Betegségek Intézete","target":"Budai Egészségközpont","value":1}
+{"source":"I. Sz. Belgyógyászati Klinika","target":"Budai Egészségközpont","value":2}
+{"source":"I. Sz. Gyermekgyógyászati Klinika","target":"Budai Egészségközpont","value":1}
+{"source":"II. Belgyógyászati Klinika","target":"Budai Egészségközpont","value":2}
+{"source":"II. Sz. Gyermekgyógyászati Klinika","target":"Budai Egészségközpont","value":2}
+{"source":"II. sz. Sebészeti Klinika","target":"Budai Egészségközpont","value":2}
+{"source":"II. Sz. Szülészeti és Nõgyógyászati Klinika","target":"Budai Egészségközpont","value":1}
+{"source":"Neurológiai Klinika","target":"Budai Egészségközpont","value":1}
+{"source":"Ortopédiai Klinika","target":"Budai Egészségközpont","value":2}
+{"source":"Szemészeti Klinika","target":"Budai Egészségközpont","value":1}
+{"source":"Transzplantációs és Sebészeti Klinika","target":"Budai Egészségközpont","value":1}
+{"source":"Városmajori Szív- és Érgyógyászati Klinika","target":"Budai Egészségközpont","value":1}
+{"source":"I. Sz. Belgyógyászati Klinika","target":"Budai Endokrinközpont","value":1}
+{"source":"Transzplantációs és Sebészeti Klinika","target":"Budai Endokrinközpont","value":1}
+{"source":"I. Sz. Szülészeti és Nõgyógyászati Klinika","target":"Budai Magánorvosi Centrum","value":1}
+{"source":"II. Sz. Gyermekgyógyászati Klinika","target":"Budai Magánorvosi Centrum","value":1}
+{"source":"II. Sz. Szülészeti és Nõgyógyászati Klinika","target":"Budai Magánorvosi Centrum","value":1}
+{"source":"Pulmonológiai Klinika","target":"Budai Magánorvosi Centrum","value":2}
+{"source":"Szemészeti Klinika","target":"Budai Magánorvosi Centrum","value":1}
+{"source":"Szemészeti Klinika","target":"Budai Szemészeti Központ","value":4}
+{"source":"Szemészeti Klinika","target":"Budai Szemészeti Központ| Kútvölgyi Prémium Egészségközpont","value":1}
+{"source":"I. Sz. Sebészeti Klinika","target":"Budapest Plasztikai Intézet","value":2}
+{"source":"Radiológiai Klinika","target":"Budapest Ultrahang","value":1}
+{"source":"Neurológiai Klinika","target":"Budapesti Mozgásszervi Magánrendelõ","value":1}
+{"source":"Ortopédiai Klinika","target":"Budapesti Mozgásszervi Magánrendelõ","value":5}
+{"source":"Radiológiai Klinika","target":"Cleopatra Medical Center","value":2}
+{"source":"Transzplantációs és Sebészeti Klinika","target":"Cleopatra Medical Center","value":2}
+{"source":"II. Sz. Gyermekgyógyászati Klinika","target":"Czeizel Intézet","value":3}
+{"source":"II. Sz. Szülészeti és Nõgyógyászati Klinika","target":"Czeizel Intézet","value":1}
+{"source":"Bõr-, Nemikórtani és Bõronkológiai Klinika","target":"Csalogány Orvosi Központ","value":3}
+{"source":"Arc- Állcsont- Szájsebészeti és Fogászati Klinika","target":"Da Vinci Magánklinika","value":1}
+{"source":"Aneszteziológiai és Intenzív Terápiás Klinika","target":"DAVID Gerincklinika","value":1}
+{"source":"Ortopédiai Klinika","target":"DAVID Gerincklinika","value":1}
+{"source":"Gyermekfogászati és Fogszabályozási Klinika","target":"DentalCoop","value":1}
+{"source":"Parodontológiai Klinika","target":"Dentop Fogászati Rendelõ","value":2}
+{"source":"Mellkassebészeti Klinika - az Országos Onkológiai Intézet bázisán","target":"Dolomit-Med Orvosi Centrum","value":1}
+{"source":"I. Sz. Szülészeti és Nõgyógyászati Klinika","target":"Dr. Gimes Gábor magánrendelése","value":1}
+{"source":"I. Sz. Sebészeti Klinika","target":"Dr. Rose Magánklinika","value":2}
+{"source":"I. Sz. Szülészeti és Nõgyógyászati Klinika","target":"Dr. Rose Magánklinika","value":1}
+{"source":"II. Sz. Gyermekgyógyászati Klinika","target":"Dr. Rose Magánklinika","value":1}
+{"source":"Neurológiai Klinika","target":"Dr. Rose Magánklinika","value":1}
+{"source":"Pulmonológiai Klinika","target":"Dr. Rose Magánklinika","value":1}
+{"source":"Szemészeti Klinika","target":"Dr. Rose Magánklinika","value":1}
+{"source":"Urológiai Klinika","target":"Dr. Rose Magánklinika","value":1}
+{"source":"Radiológiai Klinika","target":"Dr. Rose Magánkórház","value":1}
+{"source":"Urológiai Klinika","target":"Dr. Rose Magánkórház","value":1}
+{"source":"II. Sz. Szülészeti és Nõgyógyászati Klinika","target":"Dr. Sobel - Dr. Zinner Nõgyógyászat","value":2}
+{"source":"I. Sz. Szülészeti és Nõgyógyászati Klinika","target":"Dr. Túri és Társa Orvosi Rendelõ","value":1}
+{"source":"Bõr-, Nemikórtani és Bõronkológiai Klinika","target":"Duna Medical Center","value":1}
+{"source":"Fül-Orr-Gégészeti és Fej-Nyaksebészeti Klinika","target":"Duna Medical Center","value":3}
+{"source":"I. Sz. Belgyógyászati Klinika","target":"Duna Medical Center","value":1}
+{"source":"I. Sz. Gyermekgyógyászati Klinika","target":"Duna Medical Center","value":3}
+{"source":"I. Sz. Sebészeti Klinika","target":"Duna Medical Center","value":3}
+{"source":"I. Sz. Szülészeti és Nõgyógyászati Klinika","target":"Duna Medical Center","value":5}
+{"source":"II. Belgyógyászati Klinika","target":"Duna Medical Center","value":1}
+{"source":"II. Sz. Gyermekgyógyászati Klinika","target":"Duna Medical Center","value":3}
+{"source":"III. Sz. Belgyógyászati Klinika","target":"Duna Medical Center","value":2}
+{"source":"Mellkassebészeti Klinika - az Országos Onkológiai Intézet bázisán","target":"Duna Medical Center","value":4}
+{"source":"Ortopédiai Klinika","target":"Duna Medical Center","value":3}
+{"source":"Pszichiátriai és Pszichoterápiás Klinika","target":"Duna Medical Center","value":1}
+{"source":"Szemészeti Klinika","target":"Duna Medical Center","value":2}
+{"source":"Transzplantációs és Sebészeti Klinika","target":"Duna Medical Center","value":2}
+{"source":"Városmajori Szív- és Érgyógyászati Klinika","target":"Duna Medical Center","value":5}
+{"source":"Urológiai Klinika","target":"Dunapart Medical Magánrendelés","value":2}
+{"source":"Szemészeti Klinika","target":"Egészségliget","value":1}
+{"source":"I. Sz. Gyermekgyógyászati Klinika","target":"Elsõ Lépések Kora Gyermekkori Intervenciós Alapítvány","value":1}
+{"source":"III. Sz. Belgyógyászati Klinika","target":"Emineo Egészségügyi és Baleseti Központ","value":1}
+{"source":"Városmajori Szív- és Érgyógyászati Klinika","target":"Emineo Egészségügyi és Baleseti Központ","value":1}
+{"source":"I. Sz. Sebészeti Klinika","target":"Endo-Kapszula Magánorvosi Centrum","value":1}
+{"source":"I. Sz. Sebészeti Klinika","target":"Endomedix Diagnosztikai Központ","value":2}
+{"source":"I. Sz. Sebészeti Klinika","target":"Endomedix Diagnosztikai Központ| Panoráma Medical Center","value":1}
+{"source":"Fül-Orr-Gégészeti és Fej-Nyaksebészeti Klinika","target":"Examed Medical Center","value":1}
+{"source":"II. Belgyógyászati Klinika","target":"Examed Medical Center","value":1}
+{"source":"II. Sz. Szülészeti és Nõgyógyászati Klinika","target":"FemiMed Szülészeti és Nõgyógyászati Magánrendelõ","value":2}
+{"source":"I. Sz. Gyermekgyógyászati Klinika","target":"FirstMed","value":4}
+{"source":"II. Sz. Gyermekgyógyászati Klinika","target":"FirstMed","value":2}
+{"source":"II. Sz. Szülészeti és Nõgyógyászati Klinika","target":"FirstMed","value":2}
+{"source":"Urológiai Klinika","target":"FirstMed","value":1}
+{"source":"Szemészeti Klinika","target":"Fõnix Medical Center","value":1}
+{"source":"Városmajori Szív- és Érgyógyászati Klinika","target":"Fõnix Medical Center","value":1}
+{"source":"Bõr-, Nemikórtani és Bõronkológiai Klinika","target":"Friendly Dentists & Co.","value":1}
+{"source":"Bõr-, Nemikórtani és Bõronkológiai Klinika","target":"G1 Intézet","value":6}
+{"source":"I. Sz. Szülészeti és Nõgyógyászati Klinika","target":"G1 Intézet","value":7}
+{"source":"II. Sz. Szülészeti és Nõgyógyászati Klinika","target":"G1 Intézet","value":1}
+{"source":"Transzplantációs és Sebészeti Klinika","target":"G1 Intézet","value":2}
+{"source":"I. Sz. Sebészeti Klinika","target":"Gastromed","value":1}
+{"source":"I. Sz. Szülészeti és Nõgyógyászati Klinika","target":"Genium Egészségügyi, Családtervezési és Diagnosztikai Központ","value":1}
+{"source":"II. Sz. Gyermekgyógyászati Klinika","target":"Genium Egészségügyi, Családtervezési és Diagnosztikai Központ","value":1}
+{"source":"II. Sz. Szülészeti és Nõgyógyászati Klinika","target":"Genium Egészségügyi, Családtervezési és Diagnosztikai Központ","value":3}
+{"source":"Bõr-, Nemikórtani és Bõronkológiai Klinika","target":"Harmo-Derma Kft.","value":2}
+{"source":"I. Sz. Belgyógyászati Klinika","target":"HT Medical Center","value":1}
+{"source":"I. Sz. Szülészeti és Nõgyógyászati Klinika","target":"HT Medical Center","value":1}
+{"source":"II. Sz. Gyermekgyógyászati Klinika","target":"HT Medical Center","value":1}
+{"source":"II. sz. Sebészeti Klinika","target":"HT Medical Center","value":1}
+{"source":"Neurológiai Klinika","target":"HT Medical Center","value":2}
+{"source":"I. Sz. Gyermekgyógyászati Klinika","target":"Istenhegyi Géndiagnosztikai Klinika","value":2}
+{"source":"I. Sz. Szülészeti és Nõgyógyászati Klinika","target":"Istenhegyi Géndiagnosztikai Klinika","value":1}
+{"source":"II. sz. Sebészeti Klinika","target":"Istenhegyi Klinika","value":1}
+{"source":"Radiológiai Klinika","target":"Istenhegyi Klinika","value":1}
+{"source":"Bõr-, Nemikórtani és Bõronkológiai Klinika","target":"Kelen Kórház","value":1}
+{"source":"Fül-Orr-Gégészeti és Fej-Nyaksebészeti Klinika","target":"Kelen Kórház","value":1}
+{"source":"I. Sz. Gyermekgyógyászati Klinika","target":"Kelen Kórház","value":1}
+{"source":"II. Sz. Gyermekgyógyászati Klinika","target":"Kelen Kórház","value":1}
+{"source":"Pulmonológiai Klinika","target":"Kelen Kórház","value":1}
+{"source":"Városmajori Szív- és Érgyógyászati Klinika","target":"Kelen Kórház","value":1}
+{"source":"Bõr-, Nemikórtani és Bõronkológiai Klinika","target":"Körúti Orvosesztétikai Centrum","value":4}
+{"source":"Urológiai Klinika","target":"Krama Egészségközpont","value":1}
+{"source":"I. Sz. Szülészeti és Nõgyógyászati Klinika","target":"L33 Medical","value":1}
+{"source":"I. Sz. Szülészeti és Nõgyógyászati Klinika","target":"Liget Egészségközpont","value":1}
+{"source":"II. Belgyógyászati Klinika","target":"Liget Egészségközpont","value":2}
+{"source":"Ortopédiai Klinika","target":"Liget Egészségközpont","value":1}
+{"source":"Bõr-, Nemikórtani és Bõronkológiai Klinika","target":"magánrendelés","value":2}
+{"source":"I. Sz. Gyermekgyógyászati Klinika","target":"magánrendelés","value":1}
+{"source":"I. Sz. Szülészeti és Nõgyógyászati Klinika","target":"magánrendelés","value":1}
+{"source":"II. Belgyógyászati Klinika","target":"magánrendelés","value":1}
+{"source":"II. Sz. Gyermekgyógyászati Klinika","target":"magánrendelés","value":1}
+{"source":"II. Sz. Szülészeti és Nõgyógyászati Klinika","target":"magánrendelés","value":3}
+{"source":"Szemészeti Klinika","target":"magánrendelés","value":1}
+{"source":"Városmajori Szív- és Érgyógyászati Klinika","target":"magánrendelés","value":1}
+{"source":"I. Sz. Szülészeti és Nõgyógyászati Klinika","target":"Mammut Egészségközpont","value":1}
+{"source":"II. Belgyógyászati Klinika","target":"Mammut Egészségközpont","value":1}
+{"source":"II. Sz. Szülészeti és Nõgyógyászati Klinika","target":"Mammut Egészségközpont","value":1}
+{"source":"Bõr-, Nemikórtani és Bõronkológiai Klinika","target":"Maria Medical","value":1}
+{"source":"II. Sz. Szülészeti és Nõgyógyászati Klinika","target":"Maria Medical","value":3}
+{"source":"Radiológiai Klinika","target":"Maria Medical","value":1}
+{"source":"Aneszteziológiai és Intenzív Terápiás Klinika","target":"Maternity","value":1}
+{"source":"I. Sz. Sebészeti Klinika","target":"Maternity","value":1}
+{"source":"I. Sz. Szülészeti és Nõgyógyászati Klinika","target":"Maternity","value":1}
+{"source":"II. Sz. Szülészeti és Nõgyógyászati Klinika","target":"Maternity","value":3}
+{"source":"III. Sz. Belgyógyászati Klinika","target":"Maternity","value":1}
+{"source":"Radiológiai Klinika","target":"McKenzie Intézet","value":1}
+{"source":"II. Sz. Gyermekgyógyászati Klinika","target":"Med - Aesthetica Magánklinika","value":1}
+{"source":"II. Sz. Szülészeti és Nõgyógyászati Klinika","target":"Med - Aesthetica Magánklinika","value":1}
+{"source":"Radiológiai Klinika","target":"Med - Aesthetica Magánklinika","value":2}
+{"source":"Városmajori Szív- és Érgyógyászati Klinika","target":"Med - Aesthetica Magánklinika","value":1}
+{"source":"II. Belgyógyászati Klinika","target":"Medcity Egészségközpont","value":1}
+{"source":"II. Sz. Szülészeti és Nõgyógyászati Klinika","target":"Medica Bella Magánrendelõ","value":4}
+{"source":"Arc- Állcsont- Szájsebészeti és Fogászati Klinika","target":"Medical Center Budapest","value":1}
+{"source":"Ortopédiai Klinika","target":"Medical Center Budapest","value":1}
+{"source":"I. Sz. Gyermekgyógyászati Klinika","target":"Medicina Egészségközpont","value":1}
+{"source":"Ortopédiai Klinika","target":"Medicina Egészségközpont","value":1}
+{"source":"Pulmonológiai Klinika","target":"Medicina Egészségközpont","value":1}
+{"source":"Radiológiai Klinika","target":"Medicina Egészségközpont","value":1}
+{"source":"Fül-Orr-Gégészeti és Fej-Nyaksebészeti Klinika","target":"Medicover Kórház","value":1}
+{"source":"II. Sz. Szülészeti és Nõgyógyászati Klinika","target":"Medicover Kórház","value":1}
+{"source":"Ortopédiai Klinika","target":"Medicover Kórház","value":1}
+{"source":"Városmajori Szív- és Érgyógyászati Klinika","target":"Medicover Kórház","value":2}
+{"source":"I. Sz. Gyermekgyógyászati Klinika","target":"Medikids Gyermekgyógyászati Központ","value":4}
+{"source":"II. Sz. Gyermekgyógyászati Klinika","target":"Medikids Gyermekgyógyászati Központ","value":6}
+{"source":"Fül-Orr-Gégészeti és Fej-Nyaksebészeti Klinika","target":"MediMOM Egészségközpont","value":2}
+{"source":"II. Belgyógyászati Klinika","target":"MediMOM Egészségközpont","value":1}
+{"source":"Szemészeti Klinika","target":"MediMOM Egészségközpont","value":1}
+{"source":"Városmajori Szív- és Érgyógyászati Klinika","target":"MediMOM Egészségközpont","value":1}
+{"source":"Fül-Orr-Gégészeti és Fej-Nyaksebészeti Klinika","target":"MediMOM Egészségközpont| Protone Audio","value":1}
+{"source":"II. Sz. Gyermekgyógyászati Klinika","target":"Medoc Egészségközpont","value":1}
+{"source":"Radiológiai Klinika","target":"Medoc Egészségközpont","value":1}
+{"source":"Szemészeti Klinika","target":"Medoc Egészségközpont","value":2}
+{"source":"Városmajori Szív- és Érgyógyászati Klinika","target":"Medoc Egészségközpont","value":1}
+{"source":"Gyermekfogászati és Fogszabályozási Klinika","target":"Medve Medical Egészségközpont","value":1}
+{"source":"Urológiai Klinika","target":"Medve Medical Egészségközpont","value":1}
+{"source":"Városmajori Szív- és Érgyógyászati Klinika","target":"Medve Medical Egészségközpont","value":2}
+{"source":"I. Sz. Sebészeti Klinika","target":"Menta Egészségközpont","value":1}
+{"source":"Ortopédiai Klinika","target":"Menta Egészségközpont","value":6}
+{"source":"Fül-Orr-Gégészeti és Fej-Nyaksebészeti Klinika","target":"Mini Klinika","value":2}
+{"source":"Neurológiai Klinika","target":"Mini Klinika","value":1}
+{"source":"Fül-Orr-Gégészeti és Fej-Nyaksebészeti Klinika","target":"Mom Szent Magdolna Magánkórház","value":1}
+{"source":"I. Sz. Belgyógyászati Klinika","target":"MOM Szent Magdolna Magánkórház","value":1}
+{"source":"I. Sz. Szülészeti és Nõgyógyászati Klinika","target":"MOM Szent Magdolna Magánkórház","value":1}
+{"source":"II. Sz. Gyermekgyógyászati Klinika","target":"MOM Szent Magdolna Magánkórház","value":2}
+{"source":"Ortopédiai Klinika","target":"MOM Szent Magdolna Magánkórház","value":1}
+{"source":"Urológiai Klinika","target":"MOM Szent Magdolna Magánkórház","value":1}
+{"source":"Radiológiai Klinika","target":"MRI Med","value":1}
+{"source":"Bõr-, Nemikórtani és Bõronkológiai Klinika","target":"Netrendelõ","value":1}
+{"source":"II. Sz. Szülészeti és Nõgyógyászati Klinika","target":"Netrendelõ","value":1}
+{"source":"Aneszteziológiai és Intenzív Terápiás Klinika","target":"NewContour","value":1}
+{"source":"Szemészeti Klinika","target":"Nózi Egészségközpont","value":1}
+{"source":"Fül-Orr-Gégészeti és Fej-Nyaksebészeti Klinika","target":"Onkomplex Rákdiagnosztika és Asszisztencia","value":1}
+{"source":"I. Sz. Sebészeti Klinika","target":"Onkomplex Rákdiagnosztika és Asszisztencia","value":1}
+{"source":"Urológiai Klinika","target":"Onkomplex Rákdiagnosztika és Asszisztencia","value":1}
+{"source":"Szemészeti Klinika","target":"Optimum Látásjavító Lézerközpont","value":6}
+{"source":"Aneszteziológiai és Intenzív Terápiás Klinika","target":"Öreghegyi Magánklinika","value":1}
+{"source":"I. Sz. Belgyógyászati Klinika","target":"Öreghegyi Magánklinika","value":1}
+{"source":"I. Sz. Gyermekgyógyászati Klinika","target":"Öreghegyi Magánklinika","value":1}
+{"source":"I. Sz. Gyermekgyógyászati Klinika","target":"Panoráma Medical Center","value":2}
+{"source":"II. Belgyógyászati Klinika","target":"Panoráma Medical Center","value":1}
+{"source":"Ortopédiai Klinika","target":"Pasamed","value":1}
+{"source":"Városmajori Szív- és Érgyógyászati Klinika","target":"Pasamed","value":1}
+{"source":"Bõr-, Nemikórtani és Bõronkológiai Klinika","target":"Periderm Bõrgyõgyászati Stúdió","value":1}
+{"source":"Transzplantációs és Sebészeti Klinika","target":"Premier Med Egészségközpont","value":3}
+{"source":"Szemészeti Klinika","target":"Premium Vision Szemészeti Magánrendelõ","value":5}
+{"source":"Transzplantációs és Sebészeti Klinika","target":"Privátgasztro","value":1}
+{"source":"Aneszteziológiai és Intenzív Terápiás Klinika","target":"Professional Orvosi Rendelõ","value":1}
+{"source":"II. sz. Sebészeti Klinika","target":"Professional Orvosi Rendelõ","value":1}
+{"source":"III. Sz. Belgyógyászati Klinika","target":"Professional Orvosi Rendelõ","value":3}
+{"source":"Pszichiátriai és Pszichoterápiás Klinika","target":"Pszichofészek","value":2}
+{"source":"II. Belgyógyászati Klinika","target":"Regenero Egészségház","value":3}
+{"source":"III. Sz. Belgyógyászati Klinika","target":"Regenero Egészségház","value":1}
+{"source":"Neurológiai Klinika","target":"Regenero Egészségház","value":1}
+{"source":"Pulmonológiai Klinika","target":"Regenero Egészségház","value":1}
+{"source":"II. Belgyógyászati Klinika","target":"Ring Klinika","value":1}
+{"source":"I. Sz. Belgyógyászati Klinika","target":"Róbert Károly Magánkórház","value":1}
+{"source":"I. Sz. Szülészeti és Nõgyógyászati Klinika","target":"Róbert Károly Magánkórház","value":2}
+{"source":"II. Sz. Szülészeti és Nõgyógyászati Klinika","target":"Róbert Károly Magánkórház","value":1}
+{"source":"Ortopédiai Klinika","target":"Róbert Károly Magánkórház","value":1}
+{"source":"Gyermekfogászati és Fogszabályozási Klinika","target":"Rózsakert Medical Center","value":1}
+{"source":"I. Sz. Gyermekgyógyászati Klinika","target":"Rózsakert Medical Center","value":4}
+{"source":"I. Sz. Sebészeti Klinika","target":"Rózsakert Medical Center","value":1}
+{"source":"II. Sz. Gyermekgyógyászati Klinika","target":"Rózsakert Medical Center","value":3}
+{"source":"Radiológiai Klinika","target":"Rózsakert Medical Center","value":1}
+{"source":"Szemészeti Klinika","target":"Rózsakert Medical Center","value":4}
+{"source":"Transzplantációs és Sebészeti Klinika","target":"Rózsakert Medical Center","value":1}
+{"source":"Városmajori Szív- és Érgyógyászati Klinika","target":"Rózsakert Medical Center","value":4}
+{"source":"I. Sz. Gyermekgyógyászati Klinika","target":"SALUS Ortopédtechnika","value":1}
+{"source":"Ortopédiai Klinika","target":"SALUS Ortopédtechnika","value":1}
+{"source":"Mellkassebészeti Klinika - az Országos Onkológiai Intézet bázisán","target":"Santemed Clinique","value":1}
+{"source":"Városmajori Szív- és Érgyógyászati Klinika","target":"Sasadi Egészségközpont","value":1}
+{"source":"Arc- Állcsont- Szájsebészeti és Fogászati Klinika","target":"Sebkezelési és Ápolási Centrum - Gyõr","value":1}
+{"source":"Transzplantációs és Sebészeti Klinika","target":"Sebkezelési és Ápolási Centrum - Kaposvár, Siófok, Veszprém","value":1}
+{"source":"Fogászati és Szájsebészeti Oktató Intézet","target":"Seereiner Fogászati Magánrendelõ","value":1}
+{"source":"I. Sz. Gyermekgyógyászati Klinika","target":"Spineart Egészségközpont","value":1}
+{"source":"Fül-Orr-Gégészeti és Fej-Nyaksebészeti Klinika","target":"Svábhegyi Gyermekgyógyintézet","value":1}
+{"source":"I. Sz. Gyermekgyógyászati Klinika","target":"Svábhegyi Gyermekgyógyintézet","value":6}
+{"source":"II. Sz. Gyermekgyógyászati Klinika","target":"Svábhegyi Gyermekgyógyintézet","value":2}
+{"source":"I. Sz. Belgyógyászati Klinika","target":"Swiss Clinic","value":3}
+{"source":"I. Sz. Sebészeti Klinika","target":"Swiss Clinic","value":1}
+{"source":"II. Sz. Szülészeti és Nõgyógyászati Klinika","target":"Swiss Clinic","value":1}
+{"source":"Mellkassebészeti Klinika - az Országos Onkológiai Intézet bázisán","target":"Swiss Clinic","value":2}
+{"source":"Neurológiai Klinika","target":"Swiss Clinic","value":2}
+{"source":"Szemészeti Klinika","target":"Swiss Clinic","value":2}
+{"source":"I. Sz. Belgyógyászati Klinika","target":"Szent Ferenc Egészségügyi Központ","value":1}
+{"source":"I. Sz. Gyermekgyógyászati Klinika","target":"Szent Ferenc Egészségügyi Központ","value":2}
+{"source":"II. sz. Sebészeti Klinika","target":"Szent Ferenc Egészségügyi Központ","value":1}
+{"source":"Városmajori Szív- és Érgyógyászati Klinika","target":"Szervita Medical","value":1}
+{"source":"Neurológiai Klinika","target":"Szevermed Mozgásszervi Központ","value":1}
+{"source":"II. Belgyógyászati Klinika","target":"Tenuitas Egészség Stúdió","value":1}
+{"source":"Szemészeti Klinika","target":"Tóbiás Optika","value":1}
+{"source":"Urológiai Klinika","target":"Uropatika","value":1}
+{"source":"Urológiai Klinika","target":"Uroperspekt Orvosi Centrum Kft.","value":1}
+{"source":"Fül-Orr-Gégészeti és Fej-Nyaksebészeti Klinika","target":"Victofon","value":1}
+{"source":"Aneszteziológiai és Intenzív Terápiás Klinika","target":"Virányos Klinika","value":1}
+{"source":"Bõr-, Nemikórtani és Bõronkológiai Klinika","target":"Virányos Klinika","value":1}
+{"source":"II. Belgyógyászati Klinika","target":"Vita-Pharm Magánklinika","value":1}
+{"source":"Városmajori Szív- és Érgyógyászati Klinika","target":"VP-Med Egészségcentrum","value":2}
 ]
 }
