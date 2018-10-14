@@ -1,34 +1,26 @@
-<h1 align="center">P·rhuzamos …letrajzok</h1>
+Ôªø<h1 align="center">P√°rhuzamos √âletrajzok</h1>
  
-<p align="center">
-  <img width="520" height="300" src="https://cdn.pixabay.com/photo/2017/02/20/14/18/health-2082630_960_720.jpg">
-</p>
 
-## A cÈl
-A Semmelweis Egyetem klinikumban dolgozÛ munkat·rsai nagy sz·mban v·llalnak m·sod·ll·st a mag·nszfÈr·ban, vagy m·s kˆltsÈgvetÈsi szervnÈl. Ennek kiterjedÈse bizonytalan, a szervezeti egysÈgek kˆzˆtt is heterogÈn.
 
-### Ez a kˆvetkezı problÈm·kat vonhatja maga ut·n
-```
-1. Orvosok mag·nszfÈr·ba v·ndorl·sa
-2. P·ciensek mag·nszfÈr·ba v·ndorl·sa
-```
+## A c√©l
+A Semmelweis Egyetem klinikumban dolgoz√≥ munkat√°rsai nagy sz√°mban v√°llalnak m√°sod√°ll√°st a mag√°nszf√©r√°ban, vagy m√°s k√∂lts√©gvet√©si szervn√©l. Ennek kiterjed√©se bizonytalan, a szervezeti egys√©gek k√∂z√∂tt is heterog√©n.
 
 
 ## A feladat
-- Adatgy˚jtÈs nyilv·nosan elÈrhetı fel¸leteken (LinkedIn, Semmewleis Egyetem honlapja, stb.)
-- EredmÈnyek online publik·l·sa, illetve prezent·l·sa (honlap, kiv·lasztott konferencia)
-> Ezeket nyÌlt forr·skÛd˙, ingyenes eszkˆzˆk haszn·lat·val hajtjuk vÈgre.
+- Adatgy≈±jt√©s nyilv√°nosan el√©rhet≈ë fel√ºleteken (LinkedIn, Semmewleis Egyetem honlapja, stb.)
+- Eredm√©nyek online publik√°l√°sa, illetve prezent√°l√°sa (honlap, kiv√°lasztott konferencia)
+> Ezeket ny√≠lt forr√°sk√≥d√∫, ingyenes eszk√∂z√∂k haszn√°lat√°val hajtjuk v√©gre.
 
-## Az eszkˆzˆk
-* [RStudio](https://www.rstudio.com) - Az adattisztÌt·si feladatokhoz, script Ìr·s·hoz
-* [JSON](https://www.json.org) - Az adatok t·rol·s·hoz
-* [D3js](https://d3js.org) - Force Directed Graph a vizualiz·ciÛhoz
-* [HTML](https://www.w3schools.com/html/) - weboldal kÈszÌtÈsÈhez
-* [Start Bootstrap Scrolling Template](https://startbootstrap.com/template-overviews/scrolling-nav/) - Weboldal kÈszÌtÈsÈhez
+## Az eszk√∂z√∂k
+* [RStudio](https://www.rstudio.com) - Az adattiszt√≠t√°si feladatokhoz, script √≠r√°s√°hoz
+* [JSON](https://www.json.org) - Az adatok t√°rol√°s√°hoz
+* [D3js](https://d3js.org) - Force Directed Graph a vizualiz√°ci√≥hoz
+* [HTML](https://www.w3schools.com/html/) - weboldal k√©sz√≠t√©s√©hez
+* [Start Bootstrap Scrolling Template](https://startbootstrap.com/template-overviews/scrolling-nav/) - Weboldal k√©sz√≠t√©s√©hez
 
 ## A csapat
-* **Pataki Vivien PV** - Fejlesztı
-* **Batta Bal·zs** - Adatb·ny·sz
-* **P·sztor Attila** - AdattisztÌtÛ
-* **NÈmeth Zolt·n** - Projektmenedzser
-* **MerÈsz Gergı** - Mentor
+* **Pataki Vivien PV** - Fejleszt≈ë
+* **Batta Bal√°zs** - Adatb√°ny√°sz
+* **P√°sztor Attila** - Adattiszt√≠t√≥
+* **N√©meth Zolt√°n** - Projektmenedzser
+* **Mer√©sz Gerg≈ë** - Mentor
