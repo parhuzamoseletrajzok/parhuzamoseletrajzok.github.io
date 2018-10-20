@@ -1,4 +1,4 @@
-﻿<h1 align="center">Párhuzamos Életrajzok</h1>
+<h1 align="center">Párhuzamos Életrajzok</h1>
  
 
 
@@ -19,8 +19,8 @@ A Semmelweis Egyetem klinikumban dolgozó munkatársai nagy számban vállalnak 
 * [Start Bootstrap Scrolling Template](https://startbootstrap.com/template-overviews/scrolling-nav/) - Weboldal készítéséhez
 
 ## A csapat
-* **Pataki Vivien PV** - Fejlesztő
-* **Batta Balázs** - Adatbányász
-* **Pásztor Attila** - Adattisztító
-* **Németh Zoltán** - Projektmenedzser
-* **Merész Gergő** - Mentor
+* **PATAKI Vivien** - Fejlesztő
+* **BATTA Balázs** - Adatbányász
+* **PÁSZTOR Attila** - Adattisztító
+* **NÉMETH Zoltán** - Projektmenedzser
+* **MERÉSZ Gergő** - Mentor
